@@ -1,9 +1,21 @@
-Changes:
+Pokemon Blinding Emerald Changes:
     - Change tile set?
-    - Change inicial starters?
+    - Change inicial starters (done)
     - Add a npc that gives the player a starter of its choice or put the starters in the wild
     - Add a elite trainer before each gym
     - Change wild pokemon
     - Change trainers' teams
-    - Steven's father gives mega stone
-    - Put mega evolution stones in the wild or in a market
+    - Devo employee gives exp share instead of great ball
+    - Steven's father gives mega stone instead of exp share
+    - Put mega evolution stones in the wild or a seller in steven´s father company
+    - Gen 6+ exp share (test)
+    - Give national dex (done)
+    - Make TMs infinite (in expansion)
+    - B2W2 repels style (in expansion)
+    - Use pokeball without going to the bag (in expansion)
+    - Following pokemon (in expansion)
+    - Show nature stat changes (in expansion)
+    - Show type effectiveness (in expansion)
+    - Push B in wild battle moves to run (in expansion)
+    - Move relearner as an option in the pokemon party screen (in expansion)
+    
