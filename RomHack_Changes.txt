@@ -5,10 +5,10 @@ Pokemon Blinding Emerald Changes:
     - Add a elite trainer before each gym
     - Change wild pokemon
     - Change trainers' teams
-    - Devo employee gives exp share instead of great ball
-    - Steven's father gives mega stone instead of exp share
+    - Devo employee gives exp share instead of great ball (done)
+    - Steven's father gives mega stone instead of exp share (done)
     - Put mega evolution stones in the wild or a seller in steven´s father company
-    - Gen 6+ exp share (test)
+    - Gen 6+ exp share (in expansion)
     - Give national dex (done)
     - Make TMs infinite (in expansion)
     - B2W2 repels style (in expansion)
