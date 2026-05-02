@@ -1,0 +1,9 @@
+Changes:
+    - Change tile set?
+    - Change inicial starters?
+    - Add a npc that gives the player a starter of its choice or put the starters in the wild
+    - Add a elite trainer before each gym
+    - Change wild pokemon
+    - Change trainers' teams
+    - Steven's father gives mega stone
+    - Put mega evolution stones in the wild or in a market
