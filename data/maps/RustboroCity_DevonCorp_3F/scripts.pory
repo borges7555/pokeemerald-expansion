@@ -256,7 +256,13 @@ RustboroCity_DevonCorp_3F_Text_ExplainMegaRing:
 	.string "However, it needs to be holding\n"
 	.string "its MEGA STONE.\p"
 	.string "It is a useful mechanic that might\n"
-	.string "help you turn the tide of a battle.$"
+	.string "help you turn the tide of a battle.\p"
+	.string "One of my employees on the 1F should\n"
+	.string "be able to get you any MEGA STONE you\l"
+	.string "want, but he only does business with\n"
+	.string "strong TRAINERS, so you will need to\l"
+	.string "get at least the 4th GYM BADGE for\n"
+	.string "him to sell you any.$"
 
 RustboroCity_DevonCorp_3F_Text_NotFamiliarWithTrends:
 	.string "MR. STONE: Since my youth, I've immersed\n"

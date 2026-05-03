@@ -1,0 +1,257 @@
+raw `
+RustboroCity_DevonCorp_1F_MapScripts::
+	map_script MAP_SCRIPT_ON_TRANSITION, RustboroCity_DevonCorp_1F_OnTransition
+	.byte 0
+
+RustboroCity_DevonCorp_1F_OnTransition:
+	call_if_unset FLAG_RETURNED_DEVON_GOODS, RustboroCity_DevonCorp_1F_EventScript_BlockStairs
+	end
+
+RustboroCity_DevonCorp_1F_EventScript_BlockStairs::
+	setobjectxyperm LOCALID_DEVON_CORP_STAIR_GUARD, 14, 2
+	setobjectmovementtype LOCALID_DEVON_CORP_STAIR_GUARD, MOVEMENT_TYPE_FACE_DOWN
+	return
+
+RustboroCity_DevonCorp_1F_EventScript_Employee::
+	lock
+	faceplayer
+	goto_if_set FLAG_RETURNED_DEVON_GOODS, RustboroCity_DevonCorp_1F_EventScript_GoodsRecovered
+	goto_if_set FLAG_DEVON_GOODS_STOLEN, RustboroCity_DevonCorp_1F_EventScript_RobberWasntBright
+	msgbox RustboroCity_DevonCorp_1F_Text_ThoseShoesAreOurProduct, MSGBOX_DEFAULT
+	release
+	end
+
+RustboroCity_DevonCorp_1F_EventScript_RobberWasntBright::
+	msgbox RustboroCity_DevonCorp_1F_Text_RobberWasntVeryBright, MSGBOX_DEFAULT
+	release
+	end
+
+RustboroCity_DevonCorp_1F_EventScript_GoodsRecovered::
+	msgbox RustboroCity_DevonCorp_1F_Text_SoundsLikeStolenGoodsRecovered, MSGBOX_DEFAULT
+	release
+	end
+
+RustboroCity_DevonCorp_1F_EventScript_StairGuard::
+	lock
+	faceplayer
+	goto_if_set FLAG_RETURNED_DEVON_GOODS, RustboroCity_DevonCorp_1F_EventScript_AlwaysWelcome
+	goto_if_set FLAG_RECOVERED_DEVON_GOODS, RustboroCity_DevonCorp_1F_EventScript_GotRobbed
+	goto_if_set FLAG_DEVON_GOODS_STOLEN, RustboroCity_DevonCorp_1F_EventScript_GotRobbed
+	msgbox RustboroCity_DevonCorp_1F_Text_OnlyAuthorizedPeopleEnter, MSGBOX_DEFAULT
+	release
+	end
+
+RustboroCity_DevonCorp_1F_EventScript_AlwaysWelcome::
+	msgbox RustboroCity_DevonCorp_1F_Text_YoureAlwaysWelcomeHere, MSGBOX_DEFAULT
+	release
+	end
+
+RustboroCity_DevonCorp_1F_EventScript_GotRobbed::
+	msgbox RustboroCity_DevonCorp_1F_Text_HowCouldWeGetRobbed, MSGBOX_DEFAULT
+	release
+	end
+
+RustboroCity_DevonCorp_1F_EventScript_Greeter::
+	lock
+	faceplayer
+	goto_if_set FLAG_RETURNED_DEVON_GOODS, RustboroCity_DevonCorp_1F_EventScript_WelcomeToDevonCorp
+	goto_if_set FLAG_RECOVERED_DEVON_GOODS, RustboroCity_DevonCorp_1F_EventScript_StaffGotRobbed
+	goto_if_set FLAG_DEVON_GOODS_STOLEN, RustboroCity_DevonCorp_1F_EventScript_StaffGotRobbed
+	msgbox RustboroCity_DevonCorp_1F_Text_WelcomeToDevonCorp, MSGBOX_DEFAULT
+	release
+	end
+
+RustboroCity_DevonCorp_1F_EventScript_WelcomeToDevonCorp::
+	msgbox RustboroCity_DevonCorp_1F_Text_WelcomeToDevonCorp, MSGBOX_DEFAULT
+	release
+	end
+
+RustboroCity_DevonCorp_1F_EventScript_StaffGotRobbed::
+	msgbox RustboroCity_DevonCorp_1F_Text_StaffGotRobbed, MSGBOX_DEFAULT
+	release
+	end
+
+RustboroCity_DevonCorp_1F_EventScript_RocksMetalDisplay::
+	msgbox RustboroCity_DevonCorp_1F_Text_RocksMetalDisplay, MSGBOX_SIGN
+	end
+
+RustboroCity_DevonCorp_1F_EventScript_ProductsDisplay::
+	msgbox RustboroCity_DevonCorp_1F_Text_ProductDisplay, MSGBOX_SIGN
+	end
+
+RustboroCity_DevonCorp_1F_Text_WelcomeToDevonCorp:
+	.string "Hello and welcome to the DEVON\n"
+	.string "CORPORATION.\p"
+	.string "We're proud producers of items and\n"
+	.string "medicine that enhance your life.$"
+
+RustboroCity_DevonCorp_1F_Text_StaffGotRobbed:
+	.string "One of our research staff stupidly\n"
+	.string "got robbed of an important parcel.$"
+
+RustboroCity_DevonCorp_1F_Text_ThoseShoesAreOurProduct:
+	.string "Hey, those RUNNING SHOES!\n"
+	.string "They're one of our products!\p"
+	.string "It makes me happy when I see someone\n"
+	.string "using something we made.$"
+
+RustboroCity_DevonCorp_1F_Text_RobberWasntVeryBright:
+	.string "That stolen parcel…\p"
+	.string "Well, sure it's important, but it's not\n"
+	.string "anything that anyone can use.\p"
+	.string "In my estimation, that robber must not\n"
+	.string "have been very bright.$"
+
+RustboroCity_DevonCorp_1F_Text_SoundsLikeStolenGoodsRecovered:
+	.string "It sounds like they've recovered\n"
+	.string "the ripped-off DEVON GOODS.$"
+
+RustboroCity_DevonCorp_1F_Text_OnlyAuthorizedPeopleEnter:
+	.string "I'm sorry, only authorized people\n"
+	.string "are allowed to enter here.$"
+
+RustboroCity_DevonCorp_1F_Text_HowCouldWeGetRobbed:
+	.string "It's beyond stupid.\n"
+	.string "How could we get robbed?$"
+
+RustboroCity_DevonCorp_1F_Text_YoureAlwaysWelcomeHere:
+	.string "Hi, there!\n"
+	.string "You're always welcome here!$"
+
+RustboroCity_DevonCorp_1F_Text_RocksMetalDisplay:
+	.string "Samples of rocks and metal are\n"
+	.string "displayed in the glass case.\p"
+	.string "There's a panel with some writing\n"
+	.string "on it…\p"
+	.string "“DEVON CORPORATION got its start as\n"
+	.string "a producer of stones from quarries.\p"
+	.string "“The company also produced iron from\n"
+	.string "filings in the sand.\p"
+	.string "“From that humble start as a producer\n"
+	.string "of raw materials, DEVON developed.\p"
+	.string "“DEVON is now a manufacturer of a wide\n"
+	.string "range of industrial products.”$"
+
+RustboroCity_DevonCorp_1F_Text_ProductDisplay:
+	.string "Prototypes and test products fill\n"
+	.string "the glass display case.\p"
+	.string "There's a panel with a description…\p"
+	.string "“In addition to industrial products,\n"
+	.string "DEVON now markets sundries and\l"
+	.string "pharmaceuticals for better lifestyles.\p"
+	.string "“Recently, DEVON has begun marketing\n"
+	.string "tools for POKéMON TRAINERS, including\l"
+	.string "POKé BALLS and POKéNAV systems.”$"
+
+`
+
+script RustboroCity_DevonCorp_1F_MegaStoneSeller {
+    lock
+    faceplayer
+    if (flag(FLAG_DEFEATED_LAVARIDGE_GYM) == false) {
+        msgbox(format("If you wish to wield the power of MEGA EVOLUTION, come back when you have conquered the LAVARIDGE GYM. Only then can I deem you worthy of this power."))
+        waitmessage
+    } else {
+        msgbox(format("Welcome, worthy TRAINER. Do you wish to acquire MEGA STONES?"))
+        pokemart(MegaStoneSeller)
+        msgbox(format("Make good use of this power."))
+        waitmessage
+    }
+    release
+    end
+}
+
+mart MegaStoneSeller {
+	ITEM_VENUSAURITE
+	ITEM_CHARIZARDITE_X
+	ITEM_CHARIZARDITE_Y
+	ITEM_BLASTOISINITE
+	ITEM_BEEDRILLITE
+	ITEM_PIDGEOTITE
+	ITEM_ALAKAZITE
+	ITEM_SLOWBRONITE
+	ITEM_GENGARITE
+	ITEM_KANGASKHANITE
+	ITEM_PINSIRITE
+	ITEM_GYARADOSITE
+	ITEM_AERODACTYLITE
+	ITEM_MEWTWONITE_X
+	ITEM_MEWTWONITE_Y
+	ITEM_AMPHAROSITE
+	ITEM_STEELIXITE
+	ITEM_SCIZORITE
+	ITEM_HERACRONITE
+	ITEM_HOUNDOOMINITE
+	ITEM_TYRANITARITE
+	ITEM_SCEPTILITE
+	ITEM_BLAZIKENITE
+	ITEM_SWAMPERTITE
+	ITEM_GARDEVOIRITE
+	ITEM_SABLENITE
+	ITEM_MAWILITE
+	ITEM_AGGRONITE
+	ITEM_MEDICHAMITE
+	ITEM_MANECTITE
+	ITEM_SHARPEDONITE
+	ITEM_CAMERUPTITE
+	ITEM_ALTARIANITE
+	ITEM_BANETTITE
+	ITEM_ABSOLITE
+	ITEM_GLALITITE
+	ITEM_SALAMENCITE
+	ITEM_METAGROSSITE
+	ITEM_LATIASITE
+	ITEM_LATIOSITE
+	ITEM_LOPUNNITE
+	ITEM_GARCHOMPITE
+	ITEM_LUCARIONITE
+	ITEM_ABOMASITE
+	ITEM_GALLADITE
+	ITEM_AUDINITE
+	ITEM_DIANCITE
+	ITEM_CLEFABLITE
+	ITEM_VICTREEBELITE
+	ITEM_STARMINITE
+	ITEM_DRAGONINITE
+	ITEM_MEGANIUMITE
+	ITEM_FERALIGITE
+	ITEM_SKARMORITE
+	ITEM_FROSLASSITE
+	ITEM_EMBOARITE
+	ITEM_EXCADRITE
+	ITEM_SCOLIPITE
+	ITEM_SCRAFTINITE
+	ITEM_EELEKTROSSITE
+	ITEM_CHANDELURITE
+	ITEM_CHESNAUGHTITE
+	ITEM_DELPHOXITE
+	ITEM_GRENINJITE
+	ITEM_PYROARITE
+	ITEM_FLOETTITE
+	ITEM_MALAMARITE
+	ITEM_BARBARACITE
+	ITEM_DRAGALGITE
+	ITEM_HAWLUCHANITE
+	ITEM_ZYGARDITE
+	ITEM_DRAMPANITE
+	ITEM_FALINKSITE
+	ITEM_HEATRANITE
+	ITEM_DARKRANITE
+	ITEM_ZERAORITE
+	ITEM_RAICHUNITE_X
+	ITEM_RAICHUNITE_Y
+	ITEM_CHIMECHITE
+	ITEM_ABSOLITE_Z
+	ITEM_STARAPTITE
+	ITEM_GARCHOMPITE_Z
+	ITEM_LUCARIONITE_Z
+	ITEM_GOLURKITE
+	ITEM_MEOWSTICITE
+	ITEM_CRABOMINITE
+	ITEM_GOLISOPITE
+	ITEM_MAGEARNITE
+	ITEM_SCOVILLAINITE
+	ITEM_BAXCALIBRITE
+	ITEM_TATSUGIRINITE
+	ITEM_GLIMMORANITE
+}
