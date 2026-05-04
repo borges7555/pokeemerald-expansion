@@ -2202,5 +2202,25 @@ extern const u8 gText_OakThisIsListOfPokemon[];
 extern const u8 gText_Boy[];
 extern const u8 gText_Girl[];
 
+extern const u8 gText_KantoRegion[];
+extern const u8 gText_JohtoRegion[];
+extern const u8 gText_HoennRegion[];
+extern const u8 gText_SinnohRegion[];
+extern const u8 gText_UnovaRegion[];
+extern const u8 gText_Bulbasaur[];
+extern const u8 gText_Charmander[];
+extern const u8 gText_Squirtle[];
+extern const u8 gText_Chikorita[];
+extern const u8 gText_Cyndaquil[];
+extern const u8 gText_Totodile[];
+extern const u8 gText_Treecko[];
+extern const u8 gText_Torchic[];
+extern const u8 gText_Mudkip[];
+extern const u8 gText_Turtwig[];
+extern const u8 gText_Chimchar[];
+extern const u8 gText_Piplup[];
+extern const u8 gText_Snivy[];
+extern const u8 gText_Tepig[];
+extern const u8 gText_Oshawott[];
 
 #endif // GUARD_STRINGS_H

@@ -1093,6 +1093,50 @@ static const struct MenuAction MultichoiceList_Exit[] =
     {gText_Exit},
 };
 
+static const struct MenuAction MultichoiceList_RegionChoice[] =
+{
+    {gText_KantoRegion},
+    {gText_JohtoRegion},
+    {gText_HoennRegion},
+    {gText_SinnohRegion},
+    {gText_UnovaRegion}
+};
+
+static const struct MenuAction MultichoiceList_KantoStarters[] =
+{
+    {gText_Bulbasaur},
+    {gText_Charmander},
+    {gText_Squirtle},
+};
+
+static const struct MenuAction MultichoiceList_JohtoStarters[] =
+{
+    {gText_Chikorita},
+    {gText_Cyndaquil},
+    {gText_Totodile},
+};
+
+static const struct MenuAction MultichoiceList_HoennStarters[] =
+{
+    {gText_Treecko},
+    {gText_Torchic},
+    {gText_Mudkip},
+};
+
+static const struct MenuAction MultichoiceList_SinnohStarters[] =
+{
+    {gText_Turtwig},
+    {gText_Chimchar},
+    {gText_Piplup},
+};
+
+static const struct MenuAction MultichoiceList_UnovaStarters[] =
+{
+    {gText_Snivy},
+    {gText_Tepig},
+    {gText_Oshawott},
+};
+
 struct MultichoiceListStruct
 {
     const struct MenuAction *list;
@@ -1260,6 +1304,12 @@ static const struct MultichoiceListStruct sMultichoiceLists[] =
     [MULTI_HOF_VICTORIES_QUIT]                         = MULTICHOICE(sMultichoiceList_HOF_Victories_Quit),
     [MULTI_EGGS_VICTORIES_QUIT]                        = MULTICHOICE(sMultichoiceList_Eggs_Victories_Quit),
     [MULTI_HOF_EGGS_VICTORIES_QUIT]                    = MULTICHOICE(sMultichoiceList_HOF_Eggs_Victories_Quit),
+    [MULTI_REGION_CHOICE]                              = MULTICHOICE(MultichoiceList_RegionChoice),
+    [MULTI_KANTO_STARTERS]                             = MULTICHOICE(MultichoiceList_KantoStarters),
+    [MULTI_JOHTO_STARTERS]                             = MULTICHOICE(MultichoiceList_JohtoStarters),
+    [MULTI_HOENN_STARTERS]                             = MULTICHOICE(MultichoiceList_HoennStarters),
+    [MULTI_SINNOH_STARTERS]                            = MULTICHOICE(MultichoiceList_SinnohStarters),
+    [MULTI_UNOVA_STARTERS]                             = MULTICHOICE(MultichoiceList_UnovaStarters),
 };
 
 const u8 *const gStdStrings[] =

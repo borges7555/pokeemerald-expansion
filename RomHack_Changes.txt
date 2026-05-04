@@ -1,13 +1,12 @@
 Pokemon Blinding Emerald Changes:
-    - Change tile set?
     - Change inicial starters (done)
-    - Add a npc that gives the player a starter of its choice or put the starters in the wild
+    - Add a npc that gives the player a starter of its choice per gym cleared
     - Add a elite trainer before each gym
     - Change wild pokemon
     - Change trainers' teams
     - Devo employee gives exp share instead of great ball (done)
     - Steven's father gives mega stone instead of exp share (done)
-    - Put mega evolution stones in the wild or a seller in steven´s father company
+    - Put mega evolution stones in the wild or a seller in steven´s father company (done)
     - Gen 6+ exp share (in expansion)
     - Give national dex (done)
     - Make TMs infinite (in expansion)

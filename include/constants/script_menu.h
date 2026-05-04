@@ -167,6 +167,12 @@
 #define MULTI_HOF_VICTORIES_QUIT                         156
 #define MULTI_EGGS_VICTORIES_QUIT                        157
 #define MULTI_HOF_EGGS_VICTORIES_QUIT                    158
+#define MULTI_REGION_CHOICE                              159
+#define MULTI_KANTO_STARTERS                             160
+#define MULTI_JOHTO_STARTERS                             161
+#define MULTI_HOENN_STARTERS                             162
+#define MULTI_SINNOH_STARTERS                            163
+#define MULTI_UNOVA_STARTERS                             164
 
 #define MULTI_NONE 255
 

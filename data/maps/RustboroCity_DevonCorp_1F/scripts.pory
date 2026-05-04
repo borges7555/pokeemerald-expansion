@@ -150,13 +150,12 @@ script RustboroCity_DevonCorp_1F_MegaStoneSeller {
     faceplayer
     if (flag(FLAG_DEFEATED_LAVARIDGE_GYM) == false) {
         msgbox(format("If you wish to wield the power of MEGA EVOLUTION, come back when you have conquered the LAVARIDGE GYM. Only then can I deem you worthy of this power."))
-        waitmessage
     } else {
         msgbox(format("Welcome, worthy TRAINER. Do you wish to acquire MEGA STONES?"))
         pokemart(MegaStoneSeller)
         msgbox(format("Make good use of this power."))
-        waitmessage
     }
+	waitmessage
     release
     end
 }

@@ -664,22 +664,22 @@
 #define FLAG_HIDDEN_ITEM_ROUTE_123_RARE_CANDY                (FLAG_HIDDEN_ITEMS_START + 0x6E)
 #define FLAG_HIDDEN_ITEM_ROUTE_105_BIG_PEARL                 (FLAG_HIDDEN_ITEMS_START + 0x6F)
 
-#define FLAG_EXP_SHARE     0x264
-#define FLAG_UNUSED_0x265  0x265 // Unused Flag
-#define FLAG_UNUSED_0x266  0x266 // Unused Flag
-#define FLAG_UNUSED_0x267  0x267 // Unused Flag
-#define FLAG_UNUSED_0x268  0x268 // Unused Flag
-#define FLAG_UNUSED_0x269  0x269 // Unused Flag
-#define FLAG_UNUSED_0x26A  0x26A // Unused Flag
-#define FLAG_UNUSED_0x26B  0x26B // Unused Flag
-#define FLAG_UNUSED_0x26C  0x26C // Unused Flag
-#define FLAG_UNUSED_0x26D  0x26D // Unused Flag
-#define FLAG_UNUSED_0x26E  0x26E // Unused Flag
-#define FLAG_UNUSED_0x26F  0x26F // Unused Flag
-#define FLAG_UNUSED_0x270  0x270 // Unused Flag
-#define FLAG_UNUSED_0x271  0x271 // Unused Flag
-#define FLAG_UNUSED_0x272  0x272 // Unused Flag
-#define FLAG_UNUSED_0x273  0x273 // Unused Flag
+#define FLAG_EXP_SHARE     0x264 // For Gen 6+ EXP. Share
+#define FLAG_BULBASAUR_TAKEN  0x265 // If player chose Bulbasaur in StartersGiver
+#define FLAG_CHARMANDER_TAKEN  0x266 // If player chose Charmander in StartersGiver
+#define FLAG_SQUIRTLE_TAKEN  0x267 // If player chose Squirtle in StartersGiver
+#define FLAG_CHIKORITA_TAKEN  0x268 // If player chose Chikorita in StartersGiver
+#define FLAG_CYNDAQUIL_TAKEN  0x269 // If player chose Cyndaquil in StartersGiver
+#define FLAG_TOTODILE_TAKEN  0x26A // If player chose Totodile in StartersGiver
+#define FLAG_TREECKO_TAKEN  0x26B // If player chose Treecko in StartersGiver
+#define FLAG_TORCHIC_TAKEN  0x26C // If player chose Torchic in StartersGiver
+#define FLAG_MUDKIP_TAKEN  0x26D // If player chose Mudkip in StartersGiver
+#define FLAG_TURTWIG_TAKEN  0x26E // If player chose Turtwig in StartersGiver
+#define FLAG_CHIMCHAR_TAKEN  0x26F // If player chose Chimchar in StartersGiver
+#define FLAG_PIPLUP_TAKEN  0x270 // If player chose Piplup in StartersGiver
+#define FLAG_SNIVY_TAKEN  0x271 // If player chose Snivy in StartersGiver
+#define FLAG_TEPIG_TAKEN  0x272 // If player chose Tepig in StartersGiver
+#define FLAG_OSHAWOTT_TAKEN  0x273 // If player chose Oshawott in StartersGiver
 #define FLAG_UNUSED_0x274  0x274 // Unused Flag
 #define FLAG_UNUSED_0x275  0x275 // Unused Flag
 #define FLAG_UNUSED_0x276  0x276 // Unused Flag
