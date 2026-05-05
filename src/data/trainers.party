@@ -16820,3 +16820,75 @@ Double Battle: No
 Kyogre
 Level: 5
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+
+=== TRAINER_BORGES_EVERGRANDE ===
+Name: BORGES
+Class: Champion
+Pic: Dragon Tamer
+Gender: Male
+Music: Male
+Items: Mega Ring
+Double Battle: Yes
+AI: Smart Trainer / Prediction / Assumptions
+
+Ninetales @ Heat Rock
+Level: 60
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Ball: Premier
+Nature: Timid
+Ability: Drought
+- Heat Wave
+- Psyshock
+- Reflect
+- Light Screen
+
+Camerupt @ Cameruptite
+Level: 60
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Ball: Premier
+Nature: Modest
+- Heat Wave
+- Scorching Sands
+- Solar Beam
+- Protect
+
+Serperior @ Wide Lens
+Level: 60
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Ball: Premier
+Nature: Modest
+- Leaf Storm
+- Dragon Pulse
+- Glare
+- Protect
+
+Volcarona @ Focus Sash
+Level: 60
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Ball: Premier
+Nature: Modest
+Ability: Flame Body
+- Heat Wave
+- Bug Buzz
+- Giga Drain
+- Quiver Dance
+
+Hydreigon @ Choice Specs
+Level: 60
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Ball: Premier
+Nature: Timid
+- Dragon Pulse
+- Dark Pulse
+- Heat Wave
+- Earth Power
+
+Reshiram @ Life Orb
+Level: 60
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Ball: Master
+Nature: Modest
+- Fusion Flare
+- Dragon Pulse
+- Psychic
+- Heat Wave
