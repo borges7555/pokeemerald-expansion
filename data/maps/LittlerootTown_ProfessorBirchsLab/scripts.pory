@@ -999,7 +999,7 @@ LittlerootTown_ProfessorBirchsLab_Text_ScottAboardSSTidalCall:
 `
 
 script LittlerootTown_ProfessorBirchsLab_Set_VARS {
-    if (var(VAR_GYMS_DEFEATED) == 0) {
+    if (var(VAR_NUM_STARTERS_CAN_GET) == 0) {
         setvar(VAR_NUM_STARTERS_GIVEN, 0)
     }
 
@@ -1010,8 +1010,6 @@ script LittlerootTown_ProfessorBirchsLab_Set_VARS {
 	} elif (var(VAR_STARTER_MON) == 2) {
 		setflag(FLAG_MUDKIP_TAKEN)
 	}
-
-	end
 }
 
 script NicknamePartyMon{
@@ -1035,38 +1033,28 @@ script NicknameBoxMon{
 script LittlerootTown_ProfessorBirchsLab_EventScript_StartersGiver {
     lock
     faceplayer
-    setvar(VAR_GYMS_DEFEATED, 0)
-    if (flag(FLAG_DEFEATED_RUSTBORO_GYM)) {
-        addvar(VAR_GYMS_DEFEATED, 1)
-    }
-    if (flag(FLAG_DEFEATED_DEWFORD_GYM)) {
-        addvar(VAR_GYMS_DEFEATED, 2)
-    }
-    if (flag(FLAG_DEFEATED_MAUVILLE_GYM)) {
-        addvar(VAR_GYMS_DEFEATED, 3)
+    setvar(VAR_NUM_STARTERS_CAN_GET, 0)
+    if (flag(FLAG_DEFEATED_DEWFORD_GYM) || flag(FLAG_DEFEATED_MAUVILLE_GYM)) {
+        addvar(VAR_NUM_STARTERS_CAN_GET, 1)
     }
     if (flag(FLAG_DEFEATED_LAVARIDGE_GYM)) {
-        addvar(VAR_GYMS_DEFEATED, 4)
-    }
-    if (flag(FLAG_DEFEATED_PETALBURG_GYM)) {
-        addvar(VAR_GYMS_DEFEATED, 5)
+        addvar(VAR_NUM_STARTERS_CAN_GET, 1)
     }
     if (flag(FLAG_DEFEATED_FORTREE_GYM)) {
-        addvar(VAR_GYMS_DEFEATED, 6)
-    }
-    if (flag(FLAG_DEFEATED_MOSSDEEP_GYM)) {
-        addvar(VAR_GYMS_DEFEATED, 7)
+        addvar(VAR_NUM_STARTERS_CAN_GET, 1)
     }
     if (flag(FLAG_DEFEATED_SOOTOPOLIS_GYM)) {
-        addvar(VAR_GYMS_DEFEATED, 8)
+        addvar(VAR_NUM_STARTERS_CAN_GET, 1)
     }
 
-    if (var(VAR_GYMS_DEFEATED) == 0) {
-        msgbox(format("If you want another STARTER POKéMON, go get the first GYM BADGE and come back to see me. I will give you one starter of your choice for every GYM BADGE you get."))
-    } elif (var(VAR_NUM_STARTERS_GIVEN) == VAR_GYMS_DEFEATED) {
+	call(LittlerootTown_ProfessorBirchsLab_Set_VARS)
+
+    if (var(VAR_NUM_STARTERS_CAN_GET) == 0) {
+        msgbox(format("If you want another STARTER POKéMON, go get your first two GYM BADGES and come back to see me. I will give you one starter of your choice for every two GYM BADGES you get."))
+    } elif (var(VAR_NUM_STARTERS_GIVEN) == VAR_NUM_STARTERS_CAN_GET) {
         msgbox(format("Keep earning those GYM BADGES if you want more STARTER POKéMON."))
     } elif (var(VAR_NUM_STARTERS_GIVEN) == 0) {
-        msgbox(format("So you managed to get your first GYM BADGE. Would you like to have another STARTER POKéMON to help you on your journey?"), MSGBOX_YESNO)
+        msgbox(format("So you managed to get your first two GYM BADGES. Would you like to have another STARTER POKéMON to help you on your journey?"), MSGBOX_YESNO)
         if (var(VAR_RESULT) == YES) {
             call(StarterChoice)
         } else {
@@ -1533,6 +1521,4 @@ script StarterChoice {
 	} else {
 		msgbox(format("No worries. Come back to see me if you change your mind."))
 	}
-
-	return
 }

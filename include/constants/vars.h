@@ -97,7 +97,7 @@
 #define VAR_POKELOT_RND1                                 0x404B
 #define VAR_POKELOT_RND2                                 0x404C
 #define VAR_POKELOT_PRIZE_PLACE                          0x404D
-#define VAR_GYMS_DEFEATED                                0x404E // Nº of Gyms defeated
+#define VAR_NUM_STARTERS_CAN_GET                         0x404E // Nº of starters player can get form StartersGiver
 #define VAR_LOTAD_SIZE_RECORD                            0x404F
 #define VAR_LITTLEROOT_TOWN_STATE                        0x4050
 #define VAR_OLDALE_TOWN_STATE                            0x4051

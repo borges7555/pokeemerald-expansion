@@ -1,6 +1,6 @@
 Pokemon Blinding Emerald Changes:
     - Change inicial starters (done)
-    - Add a npc that gives the player a starter of its choice per gym cleared (done)
+    - Add a npc that gives the player a starter of its choice per 2 gyms cleared (done)
     - Add a elite trainer before each gym
     - Change wild pokemon
     - Change trainers' teams
