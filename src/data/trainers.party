@@ -16821,10 +16821,243 @@ Kyogre
 Level: 5
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
+=== TRAINER_BORGES_MAUVILLE ===
+Name: BORGES
+Class: Champion
+Pic: Cooltrainer M
+Gender: Male
+Music: Male
+Items: Mega Ring
+Double Battle: Yes
+AI: Smart Trainer / Prediction / Assumptions
+
+Ninetales @ Heat Rock
+Level: 30
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Ball: Premier
+Nature: Timid
+Ability: Drought
+- Heat Wave
+- Psyshock
+- Reflect
+- Light Screen
+
+Camerupt @ Cameruptite
+Level: 30
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Ball: Ultra
+Nature: Modest
+- Heat Wave
+- Scorching Sands
+- Solar Beam
+- Protect
+
+Serperior @ Wide Lens
+Level: 30
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Ball: Poke
+Nature: Modest
+- Leaf Storm
+- Dragon Pulse
+- Glare
+- Protect
+
+Larvesta @ Eviolite
+Level: 30
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Ball: Net
+Nature: Adamant
+Ability: Flame Body
+- Flare Blitz
+- Leech Life
+- Wild Charge
+- Trailblaze
+
+/*
+=== TRAINER_COVAS_MAUVILLE ===
+Name: COVAS
+Class: Champion
+Pic: Cooltrainer M
+Gender: Male
+Music: Male
+Items: Mega Ring
+Double Battle: Yes
+AI: Smart Trainer / Prediction / Assumptions
+
+ @ 
+Level: 30
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Ball: 
+Nature: 
+Ability: 
+- 
+- 
+- 
+- 
+
+ @ 
+Level: 30
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Ball: 
+Nature: 
+- 
+- 
+- 
+- 
+
+ @ 
+Level: 30
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Ball: 
+Nature: 
+- 
+- 
+- 
+- 
+
+ @ 
+Level: 30
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Ball: 
+Nature: 
+Ability: 
+- 
+- 
+- 
+- 
+*/
+
+=== TRAINER_BORGES_FORTREE ===
+Name: BORGES
+Class: Champion
+Pic: Cooltrainer M
+Gender: Male
+Music: Male
+Items: Mega Ring
+Double Battle: Yes
+AI: Smart Trainer / Prediction / Assumptions
+
+Ninetales @ Heat Rock
+Level: 45
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Ball: Premier
+Nature: Timid
+Ability: Drought
+- Heat Wave
+- Psyshock
+- Reflect
+- Light Screen
+
+Camerupt @ Cameruptite
+Level: 45
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Ball: Ultra
+Nature: Modest
+- Heat Wave
+- Scorching Sands
+- Solar Beam
+- Protect
+
+Serperior @ Wide Lens
+Level: 45
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Ball: Poke
+Nature: Modest
+- Leaf Storm
+- Dragon Pulse
+- Glare
+- Protect
+
+Volcarona @ Focus Sash
+Level: 45
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Ball: Net
+Nature: Modest
+Ability: Flame Body
+- Heat Wave
+- Bug Buzz
+- Giga Drain
+- Quiver Dance
+
+Zweilous @ Eviolite
+Level: 45
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Ball: Dusk
+Nature: Adamant
+- Outrage
+- Crunch
+- Zen Headbutt
+- Stomping Tantrum
+
+/*
+=== TRAINER_COVAS_FORTREE ===
+Name: COVAS
+Class: Champion
+Pic: Cooltrainer M
+Gender: Male
+Music: Male
+Items: Mega Ring
+Double Battle: Yes
+AI: Smart Trainer / Prediction / Assumptions
+
+ @ 
+Level: 30
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Ball: 
+Nature: 
+Ability: 
+- 
+- 
+- 
+- 
+
+ @ 
+Level: 30
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Ball: 
+Nature: 
+- 
+- 
+- 
+- 
+
+ @ 
+Level: 30
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Ball: 
+Nature: 
+- 
+- 
+- 
+- 
+
+ @ 
+Level: 30
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Ball: 
+Nature: 
+Ability: 
+- 
+- 
+- 
+- 
+
+ @ 
+Level: 30
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Ball: 
+Nature: 
+Ability: 
+- 
+- 
+- 
+- 
+*/
+
 === TRAINER_BORGES_EVERGRANDE ===
 Name: BORGES
 Class: Champion
-Pic: Dragon Tamer
+Pic: Cooltrainer M
 Gender: Male
 Music: Male
 Items: Mega Ring
@@ -16845,7 +17078,7 @@ Ability: Drought
 Camerupt @ Cameruptite
 Level: 60
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-Ball: Premier
+Ball: Ultra
 Nature: Modest
 - Heat Wave
 - Scorching Sands
@@ -16855,7 +17088,7 @@ Nature: Modest
 Serperior @ Wide Lens
 Level: 60
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-Ball: Premier
+Ball: Poke
 Nature: Modest
 - Leaf Storm
 - Dragon Pulse
@@ -16865,7 +17098,7 @@ Nature: Modest
 Volcarona @ Focus Sash
 Level: 60
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-Ball: Premier
+Ball: Net
 Nature: Modest
 Ability: Flame Body
 - Heat Wave
@@ -16876,7 +17109,7 @@ Ability: Flame Body
 Hydreigon @ Choice Specs
 Level: 60
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-Ball: Premier
+Ball: Dusk
 Nature: Timid
 - Dragon Pulse
 - Dark Pulse
@@ -16892,3 +17125,79 @@ Nature: Modest
 - Dragon Pulse
 - Psychic
 - Heat Wave
+
+/*
+=== TRAINER_COVAS_EVERGRANDE ===
+Name: COVAS
+Class: Champion
+Pic: Cooltrainer M
+Gender: Male
+Music: Male
+Items: Mega Ring
+Double Battle: Yes
+AI: Smart Trainer / Prediction / Assumptions
+
+ @ 
+Level: 30
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Ball: 
+Nature: 
+Ability: 
+- 
+- 
+- 
+- 
+
+ @ 
+Level: 30
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Ball: 
+Nature: 
+- 
+- 
+- 
+- 
+
+ @ 
+Level: 30
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Ball: 
+Nature: 
+- 
+- 
+- 
+- 
+
+ @ 
+Level: 30
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Ball: 
+Nature: 
+Ability: 
+- 
+- 
+- 
+- 
+
+ @ 
+Level: 30
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Ball: 
+Nature: 
+Ability: 
+- 
+- 
+- 
+- 
+
+ @ 
+Level: 30
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Ball: 
+Nature: 
+Ability: 
+- 
+- 
+- 
+- 
+*/

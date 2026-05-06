@@ -409,97 +409,47 @@ MegaStoneSeller:
 # 209 "data/maps/RustboroCity_DevonCorp_1F/scripts.pory"
 	.2byte ITEM_AUDINITE
 # 210 "data/maps/RustboroCity_DevonCorp_1F/scripts.pory"
-	.2byte ITEM_DIANCITE
-# 211 "data/maps/RustboroCity_DevonCorp_1F/scripts.pory"
 	.2byte ITEM_CLEFABLITE
-# 212 "data/maps/RustboroCity_DevonCorp_1F/scripts.pory"
+# 211 "data/maps/RustboroCity_DevonCorp_1F/scripts.pory"
 	.2byte ITEM_VICTREEBELITE
-# 213 "data/maps/RustboroCity_DevonCorp_1F/scripts.pory"
+# 212 "data/maps/RustboroCity_DevonCorp_1F/scripts.pory"
 	.2byte ITEM_STARMINITE
-# 214 "data/maps/RustboroCity_DevonCorp_1F/scripts.pory"
+# 213 "data/maps/RustboroCity_DevonCorp_1F/scripts.pory"
 	.2byte ITEM_DRAGONINITE
-# 215 "data/maps/RustboroCity_DevonCorp_1F/scripts.pory"
+# 214 "data/maps/RustboroCity_DevonCorp_1F/scripts.pory"
 	.2byte ITEM_MEGANIUMITE
-# 216 "data/maps/RustboroCity_DevonCorp_1F/scripts.pory"
+# 215 "data/maps/RustboroCity_DevonCorp_1F/scripts.pory"
 	.2byte ITEM_FERALIGITE
-# 217 "data/maps/RustboroCity_DevonCorp_1F/scripts.pory"
+# 216 "data/maps/RustboroCity_DevonCorp_1F/scripts.pory"
 	.2byte ITEM_SKARMORITE
-# 218 "data/maps/RustboroCity_DevonCorp_1F/scripts.pory"
+# 217 "data/maps/RustboroCity_DevonCorp_1F/scripts.pory"
 	.2byte ITEM_FROSLASSITE
-# 219 "data/maps/RustboroCity_DevonCorp_1F/scripts.pory"
+# 218 "data/maps/RustboroCity_DevonCorp_1F/scripts.pory"
 	.2byte ITEM_EMBOARITE
-# 220 "data/maps/RustboroCity_DevonCorp_1F/scripts.pory"
+# 219 "data/maps/RustboroCity_DevonCorp_1F/scripts.pory"
 	.2byte ITEM_EXCADRITE
-# 221 "data/maps/RustboroCity_DevonCorp_1F/scripts.pory"
+# 220 "data/maps/RustboroCity_DevonCorp_1F/scripts.pory"
 	.2byte ITEM_SCOLIPITE
-# 222 "data/maps/RustboroCity_DevonCorp_1F/scripts.pory"
+# 221 "data/maps/RustboroCity_DevonCorp_1F/scripts.pory"
 	.2byte ITEM_SCRAFTINITE
-# 223 "data/maps/RustboroCity_DevonCorp_1F/scripts.pory"
+# 222 "data/maps/RustboroCity_DevonCorp_1F/scripts.pory"
 	.2byte ITEM_EELEKTROSSITE
-# 224 "data/maps/RustboroCity_DevonCorp_1F/scripts.pory"
+# 223 "data/maps/RustboroCity_DevonCorp_1F/scripts.pory"
 	.2byte ITEM_CHANDELURITE
-# 225 "data/maps/RustboroCity_DevonCorp_1F/scripts.pory"
-	.2byte ITEM_CHESNAUGHTITE
-# 226 "data/maps/RustboroCity_DevonCorp_1F/scripts.pory"
-	.2byte ITEM_DELPHOXITE
-# 227 "data/maps/RustboroCity_DevonCorp_1F/scripts.pory"
-	.2byte ITEM_GRENINJITE
-# 228 "data/maps/RustboroCity_DevonCorp_1F/scripts.pory"
-	.2byte ITEM_PYROARITE
-# 229 "data/maps/RustboroCity_DevonCorp_1F/scripts.pory"
-	.2byte ITEM_FLOETTITE
-# 230 "data/maps/RustboroCity_DevonCorp_1F/scripts.pory"
-	.2byte ITEM_MALAMARITE
-# 231 "data/maps/RustboroCity_DevonCorp_1F/scripts.pory"
-	.2byte ITEM_BARBARACITE
-# 232 "data/maps/RustboroCity_DevonCorp_1F/scripts.pory"
-	.2byte ITEM_DRAGALGITE
-# 233 "data/maps/RustboroCity_DevonCorp_1F/scripts.pory"
-	.2byte ITEM_HAWLUCHANITE
-# 234 "data/maps/RustboroCity_DevonCorp_1F/scripts.pory"
-	.2byte ITEM_ZYGARDITE
-# 235 "data/maps/RustboroCity_DevonCorp_1F/scripts.pory"
-	.2byte ITEM_DRAMPANITE
-# 236 "data/maps/RustboroCity_DevonCorp_1F/scripts.pory"
-	.2byte ITEM_FALINKSITE
-# 237 "data/maps/RustboroCity_DevonCorp_1F/scripts.pory"
-	.2byte ITEM_HEATRANITE
-# 238 "data/maps/RustboroCity_DevonCorp_1F/scripts.pory"
-	.2byte ITEM_DARKRANITE
-# 239 "data/maps/RustboroCity_DevonCorp_1F/scripts.pory"
-	.2byte ITEM_ZERAORITE
-# 240 "data/maps/RustboroCity_DevonCorp_1F/scripts.pory"
+# 224 "data/maps/RustboroCity_DevonCorp_1F/scripts.pory"
 	.2byte ITEM_RAICHUNITE_X
-# 241 "data/maps/RustboroCity_DevonCorp_1F/scripts.pory"
+# 225 "data/maps/RustboroCity_DevonCorp_1F/scripts.pory"
 	.2byte ITEM_RAICHUNITE_Y
-# 242 "data/maps/RustboroCity_DevonCorp_1F/scripts.pory"
-	.2byte ITEM_CHIMECHITE
-# 243 "data/maps/RustboroCity_DevonCorp_1F/scripts.pory"
+# 226 "data/maps/RustboroCity_DevonCorp_1F/scripts.pory"
 	.2byte ITEM_ABSOLITE_Z
-# 244 "data/maps/RustboroCity_DevonCorp_1F/scripts.pory"
+# 227 "data/maps/RustboroCity_DevonCorp_1F/scripts.pory"
 	.2byte ITEM_STARAPTITE
-# 245 "data/maps/RustboroCity_DevonCorp_1F/scripts.pory"
+# 228 "data/maps/RustboroCity_DevonCorp_1F/scripts.pory"
 	.2byte ITEM_GARCHOMPITE_Z
-# 246 "data/maps/RustboroCity_DevonCorp_1F/scripts.pory"
+# 229 "data/maps/RustboroCity_DevonCorp_1F/scripts.pory"
 	.2byte ITEM_LUCARIONITE_Z
-# 247 "data/maps/RustboroCity_DevonCorp_1F/scripts.pory"
+# 230 "data/maps/RustboroCity_DevonCorp_1F/scripts.pory"
 	.2byte ITEM_GOLURKITE
-# 248 "data/maps/RustboroCity_DevonCorp_1F/scripts.pory"
-	.2byte ITEM_MEOWSTICITE
-# 249 "data/maps/RustboroCity_DevonCorp_1F/scripts.pory"
-	.2byte ITEM_CRABOMINITE
-# 250 "data/maps/RustboroCity_DevonCorp_1F/scripts.pory"
-	.2byte ITEM_GOLISOPITE
-# 251 "data/maps/RustboroCity_DevonCorp_1F/scripts.pory"
-	.2byte ITEM_MAGEARNITE
-# 252 "data/maps/RustboroCity_DevonCorp_1F/scripts.pory"
-	.2byte ITEM_SCOVILLAINITE
-# 253 "data/maps/RustboroCity_DevonCorp_1F/scripts.pory"
-	.2byte ITEM_BAXCALIBRITE
-# 254 "data/maps/RustboroCity_DevonCorp_1F/scripts.pory"
-	.2byte ITEM_TATSUGIRINITE
-# 255 "data/maps/RustboroCity_DevonCorp_1F/scripts.pory"
-	.2byte ITEM_GLIMMORANITE
 	.2byte ITEM_NONE
 
 RustboroCity_DevonCorp_1F_MegaStoneSeller_Text_0:
