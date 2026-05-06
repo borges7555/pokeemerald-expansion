@@ -664,7 +664,7 @@
 #define FLAG_HIDDEN_ITEM_ROUTE_123_RARE_CANDY                (FLAG_HIDDEN_ITEMS_START + 0x6E)
 #define FLAG_HIDDEN_ITEM_ROUTE_105_BIG_PEARL                 (FLAG_HIDDEN_ITEMS_START + 0x6F)
 
-#define FLAG_EXP_SHARE     0x264 // For Gen 6+ EXP. Share
+#define FLAG_EXP_SHARE  0x264 // For Gen 6+ EXP. Share
 #define FLAG_BULBASAUR_TAKEN  0x265 // If player chose Bulbasaur in StartersGiver
 #define FLAG_CHARMANDER_TAKEN  0x266 // If player chose Charmander in StartersGiver
 #define FLAG_SQUIRTLE_TAKEN  0x267 // If player chose Squirtle in StartersGiver
@@ -680,12 +680,12 @@
 #define FLAG_SNIVY_TAKEN  0x271 // If player chose Snivy in StartersGiver
 #define FLAG_TEPIG_TAKEN  0x272 // If player chose Tepig in StartersGiver
 #define FLAG_OSHAWOTT_TAKEN  0x273 // If player chose Oshawott in StartersGiver
-#define FLAG_UNUSED_0x274  0x274 // Unused Flag
-#define FLAG_UNUSED_0x275  0x275 // Unused Flag
-#define FLAG_UNUSED_0x276  0x276 // Unused Flag
-#define FLAG_UNUSED_0x277  0x277 // Unused Flag
-#define FLAG_UNUSED_0x278  0x278 // Unused Flag
-#define FLAG_UNUSED_0x279  0x279 // Unused Flag
+#define FLAG_BORGES_MAUVILLE  0x274 // If player defeated BORGES in Mauville City
+#define FLAG_BORGES_FORTREE  0x275 // If player defeated BORGES in Fortree City
+#define FLAG_BORGES_EVERGRANDE  0x276 // If player defeated BORGES in Ever Grande City
+#define FLAG_COVAS_MAUVILLE  0x277 // If player defeated COVAS in Mauville City
+#define FLAG_COVAS_FORTREE  0x278 // If player defeated COVAS in Fortree City
+#define FLAG_COVAS_EVERGRANDE  0x279 // If player defeated COVAS in Ever Grande City
 #define FLAG_UNUSED_0x27A  0x27A // Unused Flag
 #define FLAG_UNUSED_0x27B  0x27B // Unused Flag
 #define FLAG_UNUSED_0x27C  0x27C // Unused Flag

@@ -16824,7 +16824,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 === TRAINER_BORGES_MAUVILLE ===
 Name: BORGES
 Class: Champion
-Pic: Cooltrainer M
+Pic: Red
 Gender: Male
 Music: Male
 Items: Mega Ring
@@ -16877,7 +16877,7 @@ Ability: Flame Body
 === TRAINER_COVAS_MAUVILLE ===
 Name: COVAS
 Class: Champion
-Pic: Cooltrainer M
+Pic: 
 Gender: Male
 Music: Male
 Items: Mega Ring
@@ -16930,7 +16930,7 @@ Ability:
 === TRAINER_BORGES_FORTREE ===
 Name: BORGES
 Class: Champion
-Pic: Cooltrainer M
+Pic: Red
 Gender: Male
 Music: Male
 Items: Mega Ring
@@ -16993,7 +16993,7 @@ Nature: Adamant
 === TRAINER_COVAS_FORTREE ===
 Name: COVAS
 Class: Champion
-Pic: Cooltrainer M
+Pic: 
 Gender: Male
 Music: Male
 Items: Mega Ring
@@ -17057,7 +17057,7 @@ Ability:
 === TRAINER_BORGES_EVERGRANDE ===
 Name: BORGES
 Class: Champion
-Pic: Cooltrainer M
+Pic: Red
 Gender: Male
 Music: Male
 Items: Mega Ring
@@ -17130,7 +17130,7 @@ Nature: Modest
 === TRAINER_COVAS_EVERGRANDE ===
 Name: COVAS
 Class: Champion
-Pic: Cooltrainer M
+Pic: 
 Gender: Male
 Music: Male
 Items: Mega Ring
