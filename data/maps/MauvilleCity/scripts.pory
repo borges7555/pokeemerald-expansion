@@ -691,3 +691,29 @@ text MauvilleCity_Text_Borges_NotEnoughPokemons {
 text MauvilleCity_Text_Borges_PostBattle {
     format("BORGES: Good luck in the MAUVILLE CITY POKéMON GYM.")
 }
+
+script MauvilleCity_EventScript_CovasBattle {
+    lock
+    faceplayer
+    trainerbattle_double(TRAINER_COVAS_MAUVILLE, MauvilleCity_Text_Covas_Intro, MauvilleCity_Text_Covas_Outro, MauvilleCity_Text_Covas_NotEnoughPokemons)
+    msgbox(MauvilleCity_Text_Covas_PostBattle, MSGBOX_AUTOCLOSE)
+    waitmessage
+    release
+    end
+}
+
+text MauvilleCity_Text_Covas_Intro {
+    format("COVAS: Boa tarde.")
+}
+
+text MauvilleCity_Text_Covas_Outro {
+    format("Fucking noob.")
+}
+
+text MauvilleCity_Text_Covas_NotEnoughPokemons {
+    format("COVAS: Pobre.")
+}
+
+text MauvilleCity_Text_Covas_PostBattle {
+    format("COVAS: Desampara-me a loja preto.")
+}

@@ -182,3 +182,29 @@ text FortreeCity_Text_Borges_NotEnoughPokemons {
 text FortreeCity_Text_Borges_PostBattle {
     format("BORGES: Good luck in the FORTREE CITY POKéMON GYM.")
 }
+
+script FortreeCity_EventScript_CovasBattle {
+    lock
+    faceplayer
+    trainerbattle_double(TRAINER_COVAS_FORTREE, FortreeCity_Text_Covas_Intro, FortreeCity_Text_Covas_Outro, FortreeCity_Text_Covas_NotEnoughPokemons)
+    msgbox(FortreeCity_Text_Covas_PostBattle, MSGBOX_AUTOCLOSE)
+    waitmessage
+    release
+    end
+}
+
+text FortreeCity_Text_Covas_Intro {
+    format("COVAS: Boa tarde.")
+}
+
+text FortreeCity_Text_Covas_Outro {
+    format("Fucking noob.")
+}
+
+text FortreeCity_Text_Covas_NotEnoughPokemons {
+    format("COVAS: Pobre.")
+}
+
+text FortreeCity_Text_Covas_PostBattle {
+    format("COVAS: Desampara-me a loja preto.")
+}

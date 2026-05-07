@@ -16842,7 +16842,7 @@ Ability: Drought
 - Reflect
 - Light Screen
 
-Camerupt @ Cameruptite
+Camerupt @ Wise Glasses
 Level: 30
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Ball: Ultra
@@ -16873,59 +16873,56 @@ Ability: Flame Body
 - Wild Charge
 - Trailblaze
 
-/*
 === TRAINER_COVAS_MAUVILLE ===
 Name: COVAS
 Class: Champion
-Pic: 
+Pic: Leader Giovanni Frlg
 Gender: Male
 Music: Male
 Items: Mega Ring
 Double Battle: Yes
 AI: Smart Trainer / Prediction / Assumptions
 
- @ 
+Gengar @ Leftovers
 Level: 30
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-Ball: 
-Nature: 
-Ability: 
-- 
-- 
-- 
-- 
+Ball: Poke
+Nature: Modest
+- Shadow Ball
+- Sludge Bomb
+- Dazzling Gleam
+- Nasty Plot
 
- @ 
+Eelektross @ Wise Glasses
 Level: 30
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-Ball: 
-Nature: 
-- 
-- 
-- 
-- 
+Ball: Poke
+Nature: Modest
+- Flamethrower
+- Thunderbolt
+- Giga Drain
+- Flash Cannon
 
- @ 
+Infernape @ Black Belt
 Level: 30
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-Ball: 
-Nature: 
-- 
-- 
-- 
-- 
+Ball: Poke
+Nature: Adamant
+- Close Combat
+- Mach Punch
+- Flare Blitz
+- Thunder Punch
 
- @ 
+Roserade @ Black Sludge
 Level: 30
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-Ball: 
-Nature: 
-Ability: 
-- 
-- 
-- 
-- 
-*/
+Ball: Poke
+Nature: Modest
+Ability: Technician
+- Energy Ball
+- Sludge Bomb
+- Shadow Ball
+- Dazzling Gleam
 
 === TRAINER_BORGES_FORTREE ===
 Name: BORGES
@@ -16989,70 +16986,67 @@ Nature: Adamant
 - Zen Headbutt
 - Stomping Tantrum
 
-/*
 === TRAINER_COVAS_FORTREE ===
 Name: COVAS
 Class: Champion
-Pic: 
+Pic: Leader Giovanni Frlg
 Gender: Male
 Music: Male
 Items: Mega Ring
 Double Battle: Yes
 AI: Smart Trainer / Prediction / Assumptions
 
- @ 
-Level: 30
+Gengar @ Leftovers
+Level: 45
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-Ball: 
-Nature: 
-Ability: 
-- 
-- 
-- 
-- 
+Ball: Poke
+Nature: Modest
+- Shadow Ball
+- Sludge Bomb
+- Dazzling Gleam
+- Nasty Plot
 
- @ 
-Level: 30
+Garchomp @ Rocky Helmet
+Level: 45
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-Ball: 
-Nature: 
-- 
-- 
-- 
-- 
+Ball: Poke
+Nature: Adamant
+Ability: Rough Skin
+- Dragon Claw
+- Earthquake
+- Dragon Dance
+- Poison Jab
 
- @ 
-Level: 30
+Eelektross @ Wise Glasses
+Level: 45
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-Ball: 
-Nature: 
-- 
-- 
-- 
-- 
+Ball: Poke
+Nature: Modest
+- Flamethrower
+- Thunderbolt
+- Giga Drain
+- Flash Cannon
 
- @ 
-Level: 30
+Infernape @ Black Belt
+Level: 45
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-Ball: 
-Nature: 
-Ability: 
-- 
-- 
-- 
-- 
+Ball: Poke
+Nature: Adamant
+- Close Combat
+- Mach Punch
+- Flare Blitz
+- Thunder Punch
 
- @ 
-Level: 30
+Roserade @ Black Sludge
+Level: 45
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-Ball: 
-Nature: 
-Ability: 
-- 
-- 
-- 
-- 
-*/
+Ball: Poke
+Nature: Modest
+Ability: Technician
+- Energy Ball
+- Sludge Bomb
+- Shadow Ball
+- Dazzling Gleam
 
 === TRAINER_BORGES_EVERGRANDE ===
 Name: BORGES
@@ -17126,78 +17120,74 @@ Nature: Modest
 - Psychic
 - Heat Wave
 
-/*
 === TRAINER_COVAS_EVERGRANDE ===
 Name: COVAS
 Class: Champion
-Pic: 
+Pic: Leader Giovanni Frlg
 Gender: Male
 Music: Male
 Items: Mega Ring
 Double Battle: Yes
 AI: Smart Trainer / Prediction / Assumptions
 
- @ 
-Level: 30
+Gengar @ Leftovers
+Level: 60
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-Ball: 
-Nature: 
-Ability: 
-- 
-- 
-- 
-- 
+Ball: Poke
+Nature: Modest
+- Shadow Ball
+- Sludge Bomb
+- Dazzling Gleam
+- Nasty Plot
 
- @ 
-Level: 30
+Garchomp @ Rocky Helmet
+Level: 60
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-Ball: 
-Nature: 
-- 
-- 
-- 
-- 
+Ball: Poke
+Nature: Adamant
+Ability: Rough Skin
+- Dragon Claw
+- Earthquake
+- Dragon Dance
+- Poison Jab
 
- @ 
-Level: 30
+Eelektross @ Wise Glasses
+Level: 60
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-Ball: 
-Nature: 
-- 
-- 
-- 
-- 
+Ball: Poke
+Nature: Modest
+- Flamethrower
+- Thunderbolt
+- Giga Drain
+- Flash Cannon
 
- @ 
-Level: 30
+Infernape @ Black Belt
+Level: 60
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-Ball: 
-Nature: 
-Ability: 
-- 
-- 
-- 
-- 
+Ball: Poke
+Nature: Adamant
+- Close Combat
+- Mach Punch
+- Flare Blitz
+- Thunder Punch
 
- @ 
-Level: 30
+Roserade @ Black Sludge
+Level: 60
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-Ball: 
-Nature: 
-Ability: 
-- 
-- 
-- 
-- 
+Ball: Poke
+Nature: Modest
+Ability: Technician
+- Energy Ball
+- Sludge Bomb
+- Shadow Ball
+- Dazzling Gleam
 
- @ 
-Level: 30
+Rayquaza @ Dragon Fang
+Level: 60
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-Ball: 
-Nature: 
-Ability: 
-- 
-- 
-- 
-- 
-*/
+Ball: Poke
+Nature: Adamant
+- Dragon Ascent
+- Dragon Claw
+- Dragon Dance
+- Outrage

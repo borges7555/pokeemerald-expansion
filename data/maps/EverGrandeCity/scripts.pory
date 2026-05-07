@@ -63,3 +63,29 @@ text EverGrandeCity_Text_Borges_NotEnoughPokemons {
 text EverGrandeCity_Text_Borges_PostBattle {
     format("BORGES: Good luck in the POKéMON LEAGUE.")
 }
+
+script EverGrandeCity_EventScript_CovasBattle {
+    lock
+    faceplayer
+    trainerbattle_double(TRAINER_COVAS_EVERGRANDE, EverGrandeCity_Text_Covas_Intro, EverGrandeCity_Text_Covas_Outro, EverGrandeCity_Text_Covas_NotEnoughPokemons)
+    msgbox(EverGrandeCity_Text_Covas_PostBattle, MSGBOX_AUTOCLOSE)
+    waitmessage
+    release
+    end
+}
+
+text EverGrandeCity_Text_Covas_Intro {
+    format("COVAS: Boa tarde.")
+}
+
+text EverGrandeCity_Text_Covas_Outro {
+    format("COVAS: Fucking noob.")
+}
+
+text EverGrandeCity_Text_Covas_NotEnoughPokemons {
+    format("COVAS: Pobre.")
+}
+
+text EverGrandeCity_Text_Covas_PostBattle {
+    format("COVAS: Desampara-me a loja preto.")
+}

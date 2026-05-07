@@ -327,6 +327,22 @@ FortreeCity_EventScript_BorgesBattle::
 	end
 
 
+FortreeCity_EventScript_CovasBattle::
+# 187 "data/maps/FortreeCity/scripts.pory"
+	lock
+# 188 "data/maps/FortreeCity/scripts.pory"
+	faceplayer
+# 189 "data/maps/FortreeCity/scripts.pory"
+	trainerbattle_double TRAINER_COVAS_FORTREE, FortreeCity_Text_Covas_Intro, FortreeCity_Text_Covas_Outro, FortreeCity_Text_Covas_NotEnoughPokemons
+# 190 "data/maps/FortreeCity/scripts.pory"
+	msgbox FortreeCity_Text_Covas_PostBattle, MSGBOX_AUTOCLOSE
+# 191 "data/maps/FortreeCity/scripts.pory"
+	waitmessage
+# 192 "data/maps/FortreeCity/scripts.pory"
+	release
+	end
+
+
 FortreeCity_Text_Borges_Intro::
 # 170 "data/maps/FortreeCity/scripts.pory"
 	.string "BORGES: Let's see if you are ready to\n"
@@ -346,3 +362,19 @@ FortreeCity_Text_Borges_PostBattle::
 # 182 "data/maps/FortreeCity/scripts.pory"
 	.string "BORGES: Good luck in the FORTREE CITY\n"
 	.string "POKéMON GYM.$"
+
+FortreeCity_Text_Covas_Intro::
+# 196 "data/maps/FortreeCity/scripts.pory"
+	.string "COVAS: Boa tarde.$"
+
+FortreeCity_Text_Covas_Outro::
+# 200 "data/maps/FortreeCity/scripts.pory"
+	.string "Fucking noob.$"
+
+FortreeCity_Text_Covas_NotEnoughPokemons::
+# 204 "data/maps/FortreeCity/scripts.pory"
+	.string "COVAS: Pobre.$"
+
+FortreeCity_Text_Covas_PostBattle::
+# 208 "data/maps/FortreeCity/scripts.pory"
+	.string "COVAS: Desampara-me a loja preto.$"

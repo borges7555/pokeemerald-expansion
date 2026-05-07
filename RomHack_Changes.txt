@@ -19,3 +19,7 @@ Pokemon Blinding Emerald Changes:
     - Show type effectiveness (in expansion)
     - Push B in wild battle moves to run (in expansion)
     - Move relearner as an option in the pokemon party screen (in expansion)
+
+
+Pokemons to put in the wild:
+    - 

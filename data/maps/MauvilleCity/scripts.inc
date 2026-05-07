@@ -1345,6 +1345,22 @@ MauvilleCity_EventScript_BorgesBattle::
 	end
 
 
+MauvilleCity_EventScript_CovasBattle::
+# 696 "data/maps/MauvilleCity/scripts.pory"
+	lock
+# 697 "data/maps/MauvilleCity/scripts.pory"
+	faceplayer
+# 698 "data/maps/MauvilleCity/scripts.pory"
+	trainerbattle_double TRAINER_COVAS_MAUVILLE, MauvilleCity_Text_Covas_Intro, MauvilleCity_Text_Covas_Outro, MauvilleCity_Text_Covas_NotEnoughPokemons
+# 699 "data/maps/MauvilleCity/scripts.pory"
+	msgbox MauvilleCity_Text_Covas_PostBattle, MSGBOX_AUTOCLOSE
+# 700 "data/maps/MauvilleCity/scripts.pory"
+	waitmessage
+# 701 "data/maps/MauvilleCity/scripts.pory"
+	release
+	end
+
+
 MauvilleCity_Text_Borges_Intro::
 # 679 "data/maps/MauvilleCity/scripts.pory"
 	.string "BORGES: Let's see if you are ready to\n"
@@ -1364,3 +1380,19 @@ MauvilleCity_Text_Borges_PostBattle::
 # 691 "data/maps/MauvilleCity/scripts.pory"
 	.string "BORGES: Good luck in the MAUVILLE CITY\n"
 	.string "POKéMON GYM.$"
+
+MauvilleCity_Text_Covas_Intro::
+# 705 "data/maps/MauvilleCity/scripts.pory"
+	.string "COVAS: Boa tarde.$"
+
+MauvilleCity_Text_Covas_Outro::
+# 709 "data/maps/MauvilleCity/scripts.pory"
+	.string "Fucking noob.$"
+
+MauvilleCity_Text_Covas_NotEnoughPokemons::
+# 713 "data/maps/MauvilleCity/scripts.pory"
+	.string "COVAS: Pobre.$"
+
+MauvilleCity_Text_Covas_PostBattle::
+# 717 "data/maps/MauvilleCity/scripts.pory"
+	.string "COVAS: Desampara-me a loja preto.$"

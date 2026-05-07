@@ -89,6 +89,22 @@ EverGrandeCity_EventScript_BorgesBattle::
 	end
 
 
+EverGrandeCity_EventScript_CovasBattle::
+# 68 "data/maps/EverGrandeCity/scripts.pory"
+	lock
+# 69 "data/maps/EverGrandeCity/scripts.pory"
+	faceplayer
+# 70 "data/maps/EverGrandeCity/scripts.pory"
+	trainerbattle_double TRAINER_COVAS_EVERGRANDE, EverGrandeCity_Text_Covas_Intro, EverGrandeCity_Text_Covas_Outro, EverGrandeCity_Text_Covas_NotEnoughPokemons
+# 71 "data/maps/EverGrandeCity/scripts.pory"
+	msgbox EverGrandeCity_Text_Covas_PostBattle, MSGBOX_AUTOCLOSE
+# 72 "data/maps/EverGrandeCity/scripts.pory"
+	waitmessage
+# 73 "data/maps/EverGrandeCity/scripts.pory"
+	release
+	end
+
+
 EverGrandeCity_Text_Borges_Intro::
 # 51 "data/maps/EverGrandeCity/scripts.pory"
 	.string "BORGES: Let's see if you are ready to\n"
@@ -107,3 +123,19 @@ EverGrandeCity_Text_Borges_PostBattle::
 # 63 "data/maps/EverGrandeCity/scripts.pory"
 	.string "BORGES: Good luck in the POKéMON\n"
 	.string "LEAGUE.$"
+
+EverGrandeCity_Text_Covas_Intro::
+# 77 "data/maps/EverGrandeCity/scripts.pory"
+	.string "COVAS: Boa tarde.$"
+
+EverGrandeCity_Text_Covas_Outro::
+# 81 "data/maps/EverGrandeCity/scripts.pory"
+	.string "COVAS: Fucking noob.$"
+
+EverGrandeCity_Text_Covas_NotEnoughPokemons::
+# 85 "data/maps/EverGrandeCity/scripts.pory"
+	.string "COVAS: Pobre.$"
+
+EverGrandeCity_Text_Covas_PostBattle::
+# 89 "data/maps/EverGrandeCity/scripts.pory"
+	.string "COVAS: Desampara-me a loja preto.$"
