@@ -4543,45 +4543,63 @@ Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 Mugshot: Purple
 
-Mightyena
-Level: 46
+Krookodile @ Muscle Band
+Level: 74
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Roar
-- Double Edge
-- Sand Attack
+Nature: Adamant
+Ability: Intimidate
+- Earthquake
 - Crunch
+- Stone Edge
+- Gunk Shot
 
-Shiftry
-Level: 48
+Drapion @ Scope Lens
+Level: 74
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Torment
-- Double Team
-- Swagger
-- Extrasensory
+Nature: Adamant
+Ability: Sniper
+- Fell Stinger
+- Crunch
+- Cross Poison
+- Brick Break
 
-Cacturne
-Level: 46
+Honchkrow @ Leftovers
+Level: 74
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Leech Seed
-- Feint Attack
-- Needle Arm
-- Cotton Spore
+Nature: Adamant
+Ability: Moxie
+- Brave Bird
+- U-turn
+- Lash Out
+- Sucker Punch
 
-Crawdaunt
-Level: 48
+Hydreigon @ Life Orb
+Level: 74
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Nature: Modest
+- Dragon Pulse
+- Dark Pulse
+- Flamethrower
 - Surf
-- Swords Dance
-- Strength
-- Facade
 
-Absol @ Sitrus Berry
-Level: 49
+Tyranitar @ Chople Berry
+Level: 74
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Aerial Ace
-- Rock Slide
-- Swords Dance
-- Slash
+Nature: Adamant
+Ability: Sand Stream
+- Stone Edge
+- Crunch
+- Iron Head
+- Brick Break
+
+Absol @ Absolite Z
+Level: 75
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Nature: Adamant
+- Phantom Force
+- Night Slash
+- Play Rough
+- Close Combat
 
 === TRAINER_PHOEBE ===
 Name: PHOEBE
@@ -4594,45 +4612,64 @@ Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 Mugshot: Green
 
-Dusclops
-Level: 48
+Drifblim @ Flame Orb
+Level: 75
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Shadow Punch
-- Confuse Ray
-- Curse
-- Protect
-
-Banette
-Level: 49
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Nature: Modest
+Ability: Flare Boost
 - Shadow Ball
-- Grudge
-- Will O Wisp
-- Feint Attack
-
-Sableye
-Level: 50
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Shadow Ball
-- Double Team
-- Night Shade
-- Feint Attack
-
-Banette
-Level: 49
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Shadow Ball
-- Psychic
 - Thunderbolt
-- Facade
+- Air Slash
+- Tailwind
 
-Dusclops @ Sitrus Berry
-Level: 51
+Jellicent @ Leftovers
+Level: 75
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Nature: Modest
+Ability: Water Absorb
+- Scald
 - Shadow Ball
+- Dazzling Gleam
 - Ice Beam
-- Rock Slide
+
+Chandelure @ Wise Glasses
+Level: 75
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Nature: Modest
+Ability: Flame Body
+- Flamethrower
+- Shadow Ball
+- Energy Ball
+- Psychic
+
+Golurk @ Muscle Band
+Level: 75
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Nature: Adamant
+Ability: Iron Fist
 - Earthquake
+- Phantom Force
+- Drain Punch
+- Thunder Punch
+
+Gengar @ Gengarite
+Level: 75
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Nature: Modest
+- Shadow Ball
+- Sludge Wave
+- Giga Drain
+- Dazzling Gleam
+
+Dusclops @ Eviolite
+Level: 76
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Nature: Adamant
+Ability: Pressure
+- Shadow Sneak
+- Phantom Force
+- Leech Life
+- Brick Break
 
 === TRAINER_GLACIA ===
 Name: GLACIA
@@ -4645,45 +4682,63 @@ Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 Mugshot: Pink
 
-Sealeo
-Level: 50
+Weavile @ Focus Sash
+Level: 76
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Encore
-- Body Slam
-- Hail
-- Ice Ball
+Nature: Adamant
+Ability: Pressure
+- Triple Axel
+- Throat Chop
+- Poison Jab
+- Fake Out
 
-Glalie
-Level: 50
+Rotom Frost @ Wise Glasses
+Level: 76
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Light Screen
-- Crunch
-- Icy Wind
-- Ice Beam
-
-Sealeo
-Level: 52
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Attract
-- Double Edge
-- Hail
+Nature: Modest
 - Blizzard
-
-Glalie
-Level: 52
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Shadow Ball
-- Explosion
-- Hail
-- Ice Beam
+- Thunderbolt
+- Parting Shot
 
-Walrein @ Sitrus Berry
-Level: 53
+Mamoswine @ Muscle Band
+Level: 76
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Surf
-- Body Slam
+Nature: Adamant
+Ability: Thick Fat
+- Earthquake
+- Ice Shard
+- Icicle Spear
+- Heavy Slam
+
+Froslass @ Choice Specs
+Level: 76
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Nature: Modest
+Ability: Snow Cloak
+- Shadow Ball
 - Ice Beam
-- Sheer Cold
+- Psychic
+- Thunderbolt
+
+Abomasnow @ Abomasite
+Level: 76
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Nature: Modest
+- Ice Beam
+- Earth Power
+- Energy Ball
+- Focus Blast
+
+Walrein @ Leftovers
+Level: 77
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Nature: Modest
+Ability: Ice Body
+- Surf
+- Ice Beam
+- Protect
+- Substitute
 
 === TRAINER_DRAKE ===
 Name: DRAKE
@@ -4696,45 +4751,64 @@ Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 Mugshot: Blue
 
-Shelgon
-Level: 52
+Kingdra @ Choice Band
+Level: 77
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Rock Tomb
-- Dragon Claw
-- Protect
-- Double Edge
+Nature: Adamant
+Ability: Sniper
+- Wave Crash
+- Outrage
+- Iron Head
+- Flip Turn
 
-Altaria
-Level: 54
+Haxorus @ Choice Scarf
+Level: 77
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Double Edge
-- Dragon Breath
-- Dragon Dance
-- Aerial Ace
-
-Kingdra
-Level: 53
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Smokescreen
-- Dragon Dance
-- Surf
-- Body Slam
-
-Flygon
-Level: 53
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Flamethrower
-- Crunch
-- Dragon Breath
+Nature: Adamant
+Ability: Mold Breaker
+- Outrage
 - Earthquake
+- Poison Jab
+- X-Scissor
 
-Salamence @ Sitrus Berry
-Level: 55
+Dragonite @ Yache Berry
+Level: 77
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Flamethrower
+Nature: Adamant
+Ability: Multiscale
+- Dragon Dance
 - Dragon Claw
+- Fly
+- Extreme Speed
+
+Garchomp @ Rocky Helmet
+Level: 77
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Nature: Adamant
+Ability: Rough Skin
+- Dragon Claw
+- Earthquake
+- Brick Break
+- Swords Dance
+
+Hydreigon @ Choice Specs
+Level: 77
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Nature: Modest
+- Dragon Pulse
+- Dark Pulse
+- Flamethrower
+- Flash Cannon
+
+Salamence @ Salamencite
+Level: 78
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Nature: Adamant
+Ability: Intimidate
+- Dragon Claw
+- Double Edge
 - Rock Slide
-- Crunch
+- Roost
 
 === TRAINER_ROXANNE_1 ===
 Name: ROXANNE
@@ -4802,7 +4876,7 @@ Nature: Adamant
 Ability: Intimidate
 - Beat Up
 - Fake Out
-- Power-Up Punch
+- Power Up Punch
 - Rock Tomb
 
 Meditite
@@ -4920,7 +4994,7 @@ Nature: Modest
 Ability: Flame Body
 - Hex
 - Burning Jealousy
-- Will-o-Wisp
+- Will O Wisp
 - Curse
 
 Heatmor
@@ -4931,7 +5005,7 @@ Ability: White Smoke
 - Burning Jealousy
 - Solar Beam
 - Scorching Sands
-- Will-o-Wisp
+- Will O Wisp
 
 Houndoom
 Level: 34
@@ -5010,7 +5084,7 @@ Ability: Inner Focus
 - Sucker Punch
 - Retaliate
 - Thunder Punch
-- Power-Up Punch
+- Power Up Punch
 
 Slaking
 Level: 40
@@ -17033,6 +17107,7 @@ Music: Male
 Items: Mega Ring
 Double Battle: Yes
 AI: Smart Trainer / Prediction / Assumptions
+Mugshot: Purple
 
 Gengar @ Leftovers
 Level: 30
@@ -17147,8 +17222,9 @@ Music: Male
 Items: Mega Ring
 Double Battle: Yes
 AI: Smart Trainer / Prediction / Assumptions
+Mugshot: Purple
 
-Gengar @ Leftovers
+Gengar @ Gengarite
 Level: 45
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Ball: Poke
@@ -17282,6 +17358,7 @@ Music: Male
 Items: Mega Ring
 Double Battle: Yes
 AI: Smart Trainer / Prediction / Assumptions
+Mugshot: Purple
 
 Gengar @ Leftovers
 Level: 60
