@@ -17057,46 +17057,47 @@ AI: Smart Trainer / Prediction / Assumptions
 Mugshot: Purple
 
 Ninetales @ Heat Rock
-Level: 30
+Level: 23
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Ball: Premier
 Nature: Timid
 Ability: Drought
-- Heat Wave
-- Psyshock
-- Reflect
-- Light Screen
+- Dazzling Gleam
+- Incinerate
+- Snarl
+- Confuse Ray
 
-Camerupt @ Wise Glasses
-Level: 30
+Numel
+Level: 23
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Ball: Ultra
 Nature: Modest
-- Heat Wave
-- Scorching Sands
-- Solar Beam
+Ability: Simple
+- Incinerate
+- Mud Shot
 - Protect
+- Ancient Power
 
-Serperior @ Wide Lens
-Level: 30
+Servine
+Level: 23
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Ball: Poke
 Nature: Modest
-- Leaf Storm
-- Dragon Pulse
-- Glare
+- Magical Leaf
+- Swift
+- Helping Hand
 - Protect
 
-Larvesta @ Eviolite
-Level: 30
+Larvesta
+Level: 24
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Ball: Net
 Nature: Adamant
 Ability: Flame Body
-- Flare Blitz
-- Leech Life
-- Wild Charge
+- Bug Bite
+- Flame Wheel
 - Trailblaze
+- Acrobatics
 
 === TRAINER_COVAS_MAUVILLE ===
 Name: COVAS
@@ -17109,46 +17110,46 @@ Double Battle: Yes
 AI: Smart Trainer / Prediction / Assumptions
 Mugshot: Purple
 
-Gengar @ Leftovers
-Level: 30
+Gastly
+Level: 23
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Ball: Poke
 Nature: Modest
-- Shadow Ball
-- Sludge Bomb
-- Dazzling Gleam
-- Nasty Plot
+- Clear Smog
+- Hypnosis
+- Hex
+- Icy Wind
 
-Eelektross @ Wise Glasses
-Level: 30
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-Ball: Poke
-Nature: Modest
-- Flamethrower
-- Thunderbolt
-- Giga Drain
-- Flash Cannon
-
-Infernape @ Black Belt
-Level: 30
+Tynamo
+Level: 23
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Ball: Poke
 Nature: Adamant
-- Close Combat
-- Mach Punch
-- Flare Blitz
-- Thunder Punch
+- Spark
+- Knock Off
+- Thunder Wave
+- Charge
 
-Roserade @ Black Sludge
-Level: 30
+Monferno
+Level: 23
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Ball: Poke
+Nature: Adamant
+- Mach Punch
+- Flame Wheel
+- Smack Down
+- Thief
+
+Roselia
+Level: 24
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Ball: Poke
 Nature: Modest
-Ability: Technician
-- Energy Ball
-- Sludge Bomb
-- Shadow Ball
-- Dazzling Gleam
+Ability: Poison Point
+- Magical Leaf
+- Mud Shot
+- Swift
+- Growth
 
 === TRAINER_BORGES_FORTREE ===
 Name: BORGES
@@ -17162,7 +17163,7 @@ AI: Smart Trainer / Prediction / Assumptions
 Mugshot: Purple
 
 Ninetales @ Heat Rock
-Level: 45
+Level: 44
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Ball: Premier
 Nature: Timid
@@ -17173,7 +17174,7 @@ Ability: Drought
 - Light Screen
 
 Camerupt @ Cameruptite
-Level: 45
+Level: 44
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Ball: Ultra
 Nature: Modest
@@ -17183,17 +17184,17 @@ Nature: Modest
 - Protect
 
 Serperior @ Wide Lens
-Level: 45
+Level: 44
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Ball: Poke
 Nature: Modest
-- Leaf Storm
+- Energy Ball
 - Dragon Pulse
 - Glare
 - Protect
 
 Volcarona @ Focus Sash
-Level: 45
+Level: 44
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Ball: Net
 Nature: Modest
@@ -17225,7 +17226,7 @@ AI: Smart Trainer / Prediction / Assumptions
 Mugshot: Purple
 
 Gengar @ Gengarite
-Level: 45
+Level: 4445
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Ball: Poke
 Nature: Modest
@@ -17234,8 +17235,8 @@ Nature: Modest
 - Dazzling Gleam
 - Nasty Plot
 
-Garchomp @ Rocky Helmet
-Level: 45
+Gabite @ Eviolite
+Level: 44
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Ball: Poke
 Nature: Adamant
@@ -17246,7 +17247,7 @@ Ability: Rough Skin
 - Poison Jab
 
 Eelektross @ Wise Glasses
-Level: 45
+Level: 44
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Ball: Poke
 Nature: Modest
@@ -17256,13 +17257,13 @@ Nature: Modest
 - Flash Cannon
 
 Infernape @ Black Belt
-Level: 45
+Level: 44
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Ball: Poke
 Nature: Adamant
 - Close Combat
 - Mach Punch
-- Flare Blitz
+- Fire Punch
 - Thunder Punch
 
 Roserade @ Black Sludge
@@ -17288,7 +17289,7 @@ AI: Smart Trainer / Prediction / Assumptions
 Mugshot: Purple
 
 Ninetales @ Heat Rock
-Level: 60
+Level: 71
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Ball: Premier
 Nature: Timid
@@ -17299,7 +17300,7 @@ Ability: Drought
 - Light Screen
 
 Camerupt @ Cameruptite
-Level: 60
+Level: 71
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Ball: Ultra
 Nature: Modest
@@ -17309,7 +17310,7 @@ Nature: Modest
 - Protect
 
 Serperior @ Wide Lens
-Level: 60
+Level: 71
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Ball: Poke
 Nature: Modest
@@ -17319,7 +17320,7 @@ Nature: Modest
 - Protect
 
 Volcarona @ Focus Sash
-Level: 60
+Level: 71
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Ball: Net
 Nature: Modest
@@ -17330,7 +17331,7 @@ Ability: Flame Body
 - Quiver Dance
 
 Hydreigon @ Choice Specs
-Level: 60
+Level: 71
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Ball: Dusk
 Nature: Timid
@@ -17340,7 +17341,7 @@ Nature: Timid
 - Earth Power
 
 Reshiram @ Life Orb
-Level: 60
+Level: 72
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Ball: Master
 Nature: Modest
@@ -17361,7 +17362,7 @@ AI: Smart Trainer / Prediction / Assumptions
 Mugshot: Purple
 
 Gengar @ Leftovers
-Level: 60
+Level: 71
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Ball: Poke
 Nature: Modest
@@ -17371,7 +17372,7 @@ Nature: Modest
 - Nasty Plot
 
 Garchomp @ Rocky Helmet
-Level: 60
+Level: 71
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Ball: Poke
 Nature: Adamant
@@ -17382,7 +17383,7 @@ Ability: Rough Skin
 - Poison Jab
 
 Eelektross @ Wise Glasses
-Level: 60
+Level: 71
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Ball: Poke
 Nature: Modest
@@ -17392,7 +17393,7 @@ Nature: Modest
 - Flash Cannon
 
 Infernape @ Black Belt
-Level: 60
+Level: 71
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Ball: Poke
 Nature: Adamant
@@ -17402,7 +17403,7 @@ Nature: Adamant
 - Thunder Punch
 
 Roserade @ Black Sludge
-Level: 60
+Level: 71
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Ball: Poke
 Nature: Modest
@@ -17413,7 +17414,7 @@ Ability: Technician
 - Dazzling Gleam
 
 Rayquaza @ Dragon Fang
-Level: 60
+Level: 72
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Ball: Poke
 Nature: Adamant
