@@ -4746,29 +4746,44 @@ Items: Mega Ring
 Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
-Geodude
-Level: 12
+Archen
+Level: 14
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Tackle
-- Defense Curl
+Nature: Adamant
 - Rock Throw
+- Wing Attack
+- Bite
+- Leer
+
+Anorith
+Level: 14
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Nature: Adamant
+Ability: Battle Armor
+- Fury Cutter
+- Smack Down
+- Metal Claw
+- Harden
+
+Aron
+Level: 14
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Nature: Adamant
+Ability: Sturdy
+- Metal Claw
+- Defense Curl
+- Bulldoze
 - Rock Tomb
 
-Geodude
-Level: 12
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Tackle
-- Defense Curl
-- Rock Throw
-- Rock Tomb
-
-Nosepass @ Oran Berry
+Nosepass
 Level: 15
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Block
+Nature: Careful
+Ability: Sturdy
+- Rock Throw
+- Thunder Wave
 - Harden
-- Tackle
-- Rock Tomb
+- Sand Tomb
 
 === TRAINER_BRAWLY_1 ===
 Name: BRAWLY
@@ -4780,29 +4795,44 @@ Items: Mega Ring
 Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
-Machop
-Level: 16
+Scraggy
+Level: 21
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Karate Chop
-- Low Kick
-- Seismic Toss
-- Bulk Up
+Nature: Adamant
+Ability: Intimidate
+- Beat Up
+- Fake Out
+- Power-Up Punch
+- Rock Tomb
 
 Meditite
-Level: 16
+Level: 21
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Focus Punch
-- Light Screen
-- Reflect
-- Bulk Up
+Nature: Adamant
+Ability: Pure Power
+- Trailblaze
+- Force Palm
+- Confusion
+- Bullet Punch
 
-Makuhita @ Sitrus Berry
-Level: 19
+Monferno
+Level: 21
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Arm Thrust
-- Vital Throw
-- Reversal
-- Bulk Up
+Nature: Adamant
+- Mach Punch
+- Flame Wheel
+- Smack Down
+- Acrobatics
+
+Makuhita
+Level: 22
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Nature: Adamant
+Ability: Sheer Force
+- Bullet Punch
+- Knock Off
+- Force Palm
+- Bulldoze
 
 === TRAINER_WATTSON_1 ===
 Name: WATTSON
@@ -4814,37 +4844,54 @@ Items: Mega Ring
 Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
-Voltorb
-Level: 20
+Emolga
+Level: 26
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Rollout
+Nature: Adamant
+Ability: Static
+- Acrobatics
+- Nuzzle
 - Spark
-- Self Destruct
-- Shock Wave
+- Double Team
 
-Electrike
-Level: 20
+Magnemite
+Level: 26
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Shock Wave
-- Leer
-- Quick Attack
-- Howl
-
-Magneton
-Level: 22
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Nature: Modest
+Ability: Sturdy
+- Electroweb
 - Supersonic
-- Shock Wave
 - Thunder Wave
-- Sonic Boom
+- Swift
 
-Manectric @ Sitrus Berry
-Level: 24
+Flaaffy
+Level: 26
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Quick Attack
-- Thunder Wave
-- Shock Wave
-- Howl
+Nature: Modest
+Ability: Static
+- Charge Beam
+- Swift
+- Charge
+- Roar
+
+Rotom Wash
+Level: 26
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Nature: Modest
+- Electro Ball
+- Confuse Ray
+- Swift
+- Hex
+
+Manectric
+Level: 27
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Nature: Modest
+Ability: Static
+- Charge Beam
+- Swift
+- Volt Switch
+- Bite
 
 === TRAINER_FLANNERY_1 ===
 Name: FLANNERY
@@ -4856,37 +4903,54 @@ Items: Mega Ring
 Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
-Numel
-Level: 24
+Arcanine
+Level: 34
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Overheat
-- Take Down
-- Magnitude
-- Sunny Day
+Nature: Hardy
+Ability: Intimidate
+- Flamethrower
+- Play Rough
+- Crunch
+- Bulldoze
 
-Slugma
-Level: 24
+Lampent
+Level: 34
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Overheat
-- Smog
-- Light Screen
-- Sunny Day
+Nature: Modest
+Ability: Flame Body
+- Hex
+- Burning Jealousy
+- Will-o-Wisp
+- Curse
 
-Camerupt
-Level: 26
+Heatmor
+Level: 34
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Overheat
-- Tackle
-- Sunny Day
-- Attract
+Nature: Modest
+Ability: White Smoke
+- Burning Jealousy
+- Solar Beam
+- Scorching Sands
+- Will-o-Wisp
 
-Torkoal @ White Herb
-Level: 29
+Houndoom
+Level: 34
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Overheat
-- Sunny Day
-- Body Slam
-- Attract
+Nature: Modest
+- Dark Pulse
+- Flamethrower
+- Solar Beam
+- Mud Shot
+
+Torkoal
+Level: 35
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Nature: Modest
+Ability: Drought
+- Lava Plume
+- Scorching Sands
+- Solar Beam
+- Ancient Power
 
 === TRAINER_NORMAN_1 ===
 Name: NORMAN
@@ -4898,37 +4962,64 @@ Items: Mega Ring
 Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
-Spinda
-Level: 27
+Sawsbuck
+Level: 39
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Teeter Dance
-- Psybeam
-- Facade
-- Encore
-
-Vigoroth
-Level: 27
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Slash
-- Facade
-- Encore
-- Feint Attack
-
-Linoone
-Level: 29
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Slash
-- Belly Drum
-- Facade
+Nature: Adamant
+Ability: Serene Grace
+- Horn Leech
+- Stomping Tantrum
 - Headbutt
+- Play Rough
 
-Slaking @ Sitrus Berry
-Level: 31
+Staraptor
+Level: 39
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Counter
-- Yawn
-- Facade
-- Feint Attack
+Nature: Adamant
+Ability: Intimidate
+- Close Combat
+- U-turn
+- Aerial Ace
+- Double-Edge
+
+Bibarel
+Level: 39
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Nature: Adamant
+Ability: Moody
+- Aqua Jet
+- Super Fang
+- Crunch
+- Bulldoze
+
+Girafarig
+Level: 39
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Nature: Modest
+Ability: Inner Focus
+- Twin Beam
+- Uproar
+- Dazzling Gleam
+- Shadow Ball
+
+Kangaskhan @ Kangaskhanite 
+Level: 39
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Nature: Adamant
+Ability: Inner Focus
+- Sucker Punch
+- Retaliate
+- Thunder Punch
+- Power-Up Punch
+
+Slaking
+Level: 40
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Nature: Adamant
+- Throat Chop
+- Body Slam
+- Drain Punch
+- Earthquake
 
 === TRAINER_WINONA_1 ===
 Name: WINONA
@@ -4940,45 +5031,62 @@ Items: Mega Ring
 Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
-Swablu
-Level: 29
+Yanmega
+Level: 47
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Perish Song
-- Mirror Move
-- Safeguard
-- Aerial Ace
+Nature: Modest
+Ability: Speed Boost
+- U-turn
+- Bug Buzz
+- Air Slash
+- Giga Drain
 
-Tropius
-Level: 29
+Gyarados
+Level: 47
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Sunny Day
-- Aerial Ace
-- Solar Beam
-- Synthesis
-
-Pelipper
-Level: 30
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Water Gun
-- Supersonic
-- Protect
-- Aerial Ace
-
-Skarmory
-Level: 31
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Sand Attack
-- Fury Attack
-- Steel Wing
-- Aerial Ace
-
-Altaria @ Oran Berry
-Level: 33
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Nature: Adamant
+Ability: Moxie
+- Waterfall
 - Earthquake
-- Dragon Breath
-- Dragon Dance
-- Aerial Ace
+- Crunch
+- Ice Fang
+
+Charizard
+Level: 47
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Nature: Modest
+- Air Slash
+- Flamethrower
+- Scorching Sands
+- Focus Blast
+
+Rotom Fan
+Level: 47
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Nature: Modest
+- Thunderbolt
+- Air Slash
+- Shadow Ball
+- Volt Switch
+
+Gliscor
+Level: 47
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Nature: Adamant
+Ability: Hyper Cutter
+- Earthquake
+- U-turn
+- Acrobatics
+- Poison Jab
+
+Altaria @ Altarianite
+Level: 48
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Nature: Modest
+- Hyper Voice
+- Dragon Pulse
+- Ice Beam
+- Flamethrower
 
 === TRAINER_TATE_AND_LIZA_1 ===
 Name: TATE&LIZA
@@ -4990,37 +5098,63 @@ Items: Mega Ring
 Double Battle: Yes
 AI: Smart Trainer / Prediction / Assumptions
 
-Claydol
-Level: 41
+Slowbro
+Level: 55
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Nature: Modest
+Ability: Regenerator
+- Psychic
+- Surf
+- Ice Beam
+- Shadow Ball
+
+Slowking
+Level: 55
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Nature: Modest
+Ability: Regenerator
+- Psychic
+- Surf
+- Ice Beam
+- Shadow Ball
+
+Gallade
+Level: 55
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Nature: Adamant
+Ability: Sharpness
+- Close Combat
+- Psycho Cut
+- Leaf Blade
 - Earthquake
-- Ancient Power
-- Psychic
-- Light Screen
 
-Xatu
-Level: 41
+Gardevoir @ Gardevoirite
+Level: 55
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Psychic
-- Sunny Day
-- Confuse Ray
-- Calm Mind
+Nature: Modest
+Ability: Trace
+- Hyper Voice
+- Moonblast
+- Thunderbolt
+- Energy Ball
 
-Lunatone @ Sitrus Berry
-Level: 42
+Lunatone
+Level: 56
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Light Screen
+Nature: Modest
 - Psychic
-- Hypnosis
-- Calm Mind
+- Power Gem
+- Shadow Ball
+- Earth Power
 
-Solrock @ Sitrus Berry
-Level: 42
+Solrock
+Level: 56
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Sunny Day
-- Solar Beam
-- Psychic
-- Flamethrower
+Nature: Adamant
+- Earthquake
+- Rock Slide
+- Zen Headbutt
+- Flare Blitz
 
 === TRAINER_JUAN_1 ===
 Name: JUAN
@@ -5032,45 +5166,61 @@ Items: Mega Ring
 Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
-Luvdisc
-Level: 41
+Starmie
+Level: 64
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Water Pulse
-- Attract
-- Sweet Kiss
-- Flail
+Nature: Modest
+Ability: Natural Cure
+- Surf
+- Psychic
+- Thunderbolt
+- Ice Beam
 
-Whiscash
-Level: 41
+Empoleon
+Level: 64
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Rain Dance
-- Water Pulse
-- Amnesia
-- Earthquake
+Nature: Modest
+- Surf
+- Flash Cannon
+- Air Slash
+- Vacuum Wave
 
-Sealeo
-Level: 43
+Walrein
+Level: 64
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Encore
-- Body Slam
-- Aurora Beam
-- Water Pulse
-
-Crawdaunt
-Level: 43
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Water Pulse
-- Crabhammer
-- Taunt
-- Leer
-
-Kingdra @ Chesto Berry
-Level: 46
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Water Pulse
-- Double Team
+Nature: Modest
+Ability: Thick Fat
+- Surf
 - Ice Beam
 - Rest
+- Sleep Talk
+
+Swampert
+Level: 64
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Nature: Adamant
+- Earthquake
+- Liquidation
+- Brick Break
+- Stone Edge
+
+Sharpedo @ Sharpedonite
+Level: 64
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Nature: Adamant
+- Liquidation
+- Crunch
+- Poison Jab
+- Flip Turn
+
+Kingdra
+Level: 65
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Nature: Adamant
+- Wave Crash
+- Outrage
+- Flip Turn
+- Dragon Dance
 
 === TRAINER_JERRY_1 ===
 Name: JERRY
@@ -16830,6 +16980,7 @@ Music: Male
 Items: Mega Ring
 Double Battle: Yes
 AI: Smart Trainer / Prediction / Assumptions
+Mugshot: Purple
 
 Ninetales @ Heat Rock
 Level: 30
@@ -16933,6 +17084,7 @@ Music: Male
 Items: Mega Ring
 Double Battle: Yes
 AI: Smart Trainer / Prediction / Assumptions
+Mugshot: Purple
 
 Ninetales @ Heat Rock
 Level: 45
@@ -17057,6 +17209,7 @@ Music: Male
 Items: Mega Ring
 Double Battle: Yes
 AI: Smart Trainer / Prediction / Assumptions
+Mugshot: Purple
 
 Ninetales @ Heat Rock
 Level: 60
