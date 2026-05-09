@@ -342,12 +342,12 @@ Music: Aqua
 Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
-Zubat
-Level: 27
+Swoobat
+Level: 49
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-Poochyena
-Level: 27
+Honchkrow
+Level: 49
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_GRUNT_WEATHER_INST_2 ===
@@ -359,12 +359,12 @@ Music: Aqua
 Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
-Poochyena
-Level: 27
+Zoroark
+Level: 49
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-Carvanha
-Level: 27
+Azumarill
+Level: 49
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_GRUNT_WEATHER_INST_3 ===
@@ -376,16 +376,16 @@ Music: Aqua
 Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
-Poochyena
-Level: 26
+Umbreon
+Level: 48
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-Zubat
-Level: 26
+Crobat
+Level: 48
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-Carvanha
-Level: 26
+Whiscash
+Level: 48
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_GRUNT_MUSEUM_1 ===
@@ -487,8 +487,12 @@ Music: Aqua
 Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
-Carvanha
-Level: 28
+Kingdra
+Level: 49
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
+Skuntank
+Level: 49
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_GRUNT_AQUA_HIDEOUT_5 ===
@@ -573,12 +577,20 @@ Music: Aqua
 Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
-Carvanha
-Level: 28
+Lumineon
+Level: 49
+IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
+
+Jellicent
+Level: 49
+IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
+
+Seismitoad
+Level: 49
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 Mightyena
-Level: 28
+Level: 50
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 === TRAINER_SHELLY_SEAFLOOR_CAVERN ===
@@ -660,15 +672,15 @@ Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
 Roselia
-Level: 14
+Level: 22
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Shroomish
-Level: 14
+Level: 22
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-Roselia
-Level: 14
+Bellsprout
+Level: 22
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_FELIX ===
@@ -847,21 +859,13 @@ Music: Hiker
 Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
-Sandshrew
-Level: 25
+Marowak
+Level: 45
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Dig
-- Slash
-- Sand Attack
-- Poison Sting
 
-Sandslash
-Level: 25
+Rhydon
+Level: 45
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Dig
-- Slash
-- Sand Attack
-- Poison Sting
 
 === TRAINER_DUSTY_2 ===
 Name: DUSTY
@@ -940,12 +944,12 @@ Music: Interviewer
 Double Battle: Yes
 AI: Smart Trainer / Prediction / Assumptions
 
-Magnemite
-Level: 29
+Magnezone
+Level: 45
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
-Loudred
-Level: 29
+Ludicolo
+Level: 45
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 === TRAINER_GABBY_AND_TY_2 ===
@@ -974,12 +978,12 @@ Music: Interviewer
 Double Battle: Yes
 AI: Smart Trainer / Prediction / Assumptions
 
-Magneton
-Level: 30
+Magnezone
+Level: 49
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
-Loudred
-Level: 30
+Tangrowth
+Level: 49
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 === TRAINER_GABBY_AND_TY_4 ===
@@ -1067,8 +1071,12 @@ Music: Girl
 Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
-Marill
-Level: 26
+Slowbro
+Level: 45
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
+Slowking
+Level: 45
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_GWEN ===
@@ -1080,8 +1088,12 @@ Music: Girl
 Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
-Marill
-Level: 26
+Cloyster
+Level: 45
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
+Milotic
+Level: 45
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_LOLA_2 ===
@@ -1195,8 +1207,12 @@ Music: Girl
 Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
-Marill
-Level: 26
+Azumarill
+Level: 45
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
+Kingdra
+Level: 45
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_RICKY_2 ===
@@ -2626,12 +2642,12 @@ Music: Female
 Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
-Wailmer
-Level: 25
+Vaporeon
+Level: 45
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-Horsea
-Level: 25
+Lanturn
+Level: 45
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_MARK ===
@@ -2737,8 +2753,12 @@ Music: Swimmer
 Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
-Carvanha
-Level: 26
+Samurott
+Level: 45
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
+Sharpedo
+Level: 45
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_DOMINIK ===
@@ -2750,8 +2770,12 @@ Music: Swimmer
 Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
-Tentacool
-Level: 26
+Swampert
+Level: 45
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
+Empoleon
+Level: 45
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_DOUGLAS ===
@@ -2763,12 +2787,12 @@ Music: Swimmer
 Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
-Tentacool
-Level: 24
+Tentacruel
+Level: 45
 IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
-Tentacool
-Level: 24
+Kingdra
+Level: 45
 IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_DARRIN ===
@@ -2780,16 +2804,16 @@ Music: Swimmer
 Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
-Tentacool
-Level: 24
+Gyarados
+Level: 44
 IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
-Wingull
-Level: 24
+Walrein
+Level: 44
 IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
-Tentacool
-Level: 24
+Relicanth
+Level: 44
 IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_TONY_1 ===
@@ -2801,8 +2825,12 @@ Music: Swimmer
 Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
-Carvanha
-Level: 26
+Basculin
+Level: 45
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
+Lumineon
+Level: 45
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_JEROME ===
@@ -2815,7 +2843,11 @@ Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
 Tentacruel
-Level: 26
+Level: 45
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
+Cloyster
+Level: 45
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_MATTHEW ===
@@ -2827,8 +2859,12 @@ Music: Swimmer
 Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
-Carvanha
-Level: 26
+Jellicent
+Level: 45
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
+Golduck
+Level: 45
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_DAVID ===
@@ -2840,12 +2876,12 @@ Music: Swimmer
 Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
-Tentacool
-Level: 25
+Lanturn
+Level: 45
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-Carvanha
-Level: 25
+Gastrodon
+Level: 45
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_SPENCER ===
@@ -3443,11 +3479,11 @@ Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
 Magnemite
-Level: 15
+Level: 23
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Whismur
-Level: 15
+Level: 23
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_DALTON_2 ===
@@ -3607,7 +3643,7 @@ Music: Hiker
 Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
-Pansear
+Simisear
 Level: 37
 IVs: 14 HP / 14 Atk / 14 Def / 14 SpA / 14 SpD / 14 Spe
 
@@ -3921,8 +3957,12 @@ Music: Suspicious
 Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
-Surskit
-Level: 26
+Accelgor
+Level: 47
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+
+Escavalier
+Level: 47
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_DONALD ===
@@ -3934,16 +3974,16 @@ Music: Suspicious
 Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
-Wurmple
-Level: 24
+Volcarona
+Level: 46
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
-Silcoon
-Level: 24
+Ariados
+Level: 46
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
-Beautifly
-Level: 24
+Yanmega
+Level: 46
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_TAYLOR ===
@@ -3955,16 +3995,16 @@ Music: Suspicious
 Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
-Wurmple
-Level: 27
+Scolipede
+Level: 46
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
-Cascoon
-Level: 27
+Beautifly
+Level: 46
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 Dustox
-Level: 27
+Level: 46
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_JEFFREY_1 ===
@@ -5163,8 +5203,8 @@ Items: Mega Ring
 Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
-Yanmega
-Level: 47
+Yanmega @ Silver Powder
+Level: 52
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Nature: Modest
 Ability: Speed Boost
@@ -5173,8 +5213,8 @@ Ability: Speed Boost
 - Air Slash
 - Giga Drain
 
-Gyarados
-Level: 47
+Gyarados @ Mystic Water
+Level: 52
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Nature: Adamant
 Ability: Moxie
@@ -5183,8 +5223,8 @@ Ability: Moxie
 - Crunch
 - Ice Fang
 
-Charizard
-Level: 47
+Charizard @ Charcoal
+Level: 52
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Nature: Modest
 - Air Slash
@@ -5192,8 +5232,8 @@ Nature: Modest
 - Scorching Sands
 - Focus Blast
 
-Rotom Fan
-Level: 47
+Rotom Fan @ Magnet
+Level: 52
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Nature: Modest
 - Thunderbolt
@@ -5201,18 +5241,18 @@ Nature: Modest
 - Shadow Ball
 - Volt Switch
 
-Gliscor
-Level: 47
+Gliscor @ Toxic Orb
+Level: 52
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Nature: Adamant
-Ability: Hyper Cutter
+Ability: Poison Heal
 - Earthquake
 - U-turn
 - Acrobatics
 - Poison Jab
 
 Altaria @ Altarianite
-Level: 48
+Level: 53
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Nature: Modest
 - Hyper Voice
@@ -6697,7 +6737,7 @@ Barboach
 Level: 33
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-Panpour
+Simipour
 Level: 33
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
@@ -6710,12 +6750,12 @@ Music: Hiker
 Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
-Tentacool
-Level: 25
+Blastoise
+Level: 45
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-Carvanha
-Level: 25
+Starmie
+Level: 45
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_WADE ===
@@ -6728,7 +6768,11 @@ Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
 Tentacool
-Level: 16
+Level: 23
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
+Shellos
+Level: 23
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_CARTER ===
@@ -6740,12 +6784,12 @@ Music: Hiker
 Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
-Wailmer
-Level: 25
+Wailord
+Level: 45
 IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
-Tentacruel
-Level: 25
+Whiscash
+Level: 45
 IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_ELLIOT_2 ===
@@ -7238,12 +7282,12 @@ Music: Male
 Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
-Zigzagoon
-Level: 25
+Stoutland
+Level: 45
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-Electrike
-Level: 25
+Raichu
+Level: 45
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_ISAIAH_1 ===
@@ -7589,8 +7633,12 @@ Music: Cool
 Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
-Wingull
-Level: 26
+Swanna
+Level: 45
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
+Vaporeon
+Level: 45
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_HUGH ===
@@ -7602,12 +7650,12 @@ Music: Cool
 Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
-Wingull
-Level: 25
+Pelipper
+Level: 47
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Tropius
-Level: 25
+Level: 47
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_PHIL ===
@@ -7620,7 +7668,11 @@ Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
 Swellow
-Level: 26
+Level: 47
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
+Staraptor
+Level: 47
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_JARED ===
@@ -7632,16 +7684,16 @@ Music: Cool
 Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
-Doduo
-Level: 27
+Fearow
+Level: 50
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
-Skarmory
-Level: 27
+Dodrio
+Level: 50
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
-Tropius
-Level: 27
+Scyther
+Level: 50
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_HUMBERTO ===
@@ -7654,7 +7706,11 @@ Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
 Skarmory
-Level: 30
+Level: 51
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+
+Pidgeot
+Level: 51
 IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
 
 === TRAINER_PRESLEY ===
@@ -7683,12 +7739,12 @@ Music: Cool
 Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
-Doduo
-Level: 29
+Yanmega
+Level: 51
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
-Pelipper
-Level: 29
+Honchkrow
+Level: 51
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 === TRAINER_COLIN ===
@@ -7717,8 +7773,12 @@ Music: Cool
 Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
-Swablu
-Level: 29
+Shelgon
+Level: 49
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
+Dragonair
+Level: 49
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_BENNY ===
@@ -7867,7 +7927,11 @@ Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
 Ninjask
-Level: 26
+Level: 49
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
+Volcarona
+Level: 49
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_TAKASHI ===
@@ -7880,11 +7944,11 @@ Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
 Ninjask
-Level: 25
+Level: 47
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-Koffing
-Level: 25
+Weezing
+Level: 47
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_DIANNE ===
@@ -7915,8 +7979,12 @@ Gender: Female
 Music: Girl
 Double Battle: No
 
-Marill
-Level: 26
+Whiscash
+Level: 45
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
+Simipour
+Level: 45
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_LAO_1 ===
@@ -8272,12 +8340,12 @@ Music: Female
 Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
-Roselia
-Level: 28
+Victreebel
+Level: 49
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-Wailmer
-Level: 28
+Gastrodon
+Level: 49
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_ANGELICA ===
@@ -8390,12 +8458,12 @@ Music: Swimmer
 Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
-Wingull
-Level: 25
+Politoed
+Level: 45
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-Wailmer
-Level: 25
+Wailord
+Level: 45
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_IMANI ===
@@ -8407,8 +8475,12 @@ Music: Swimmer
 Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
-Marill
-Level: 26
+Blastoise
+Level: 45
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
+Feraligatr
+Level: 45
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_KYLA ===
@@ -8420,8 +8492,12 @@ Music: Swimmer
 Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
-Wailmer
-Level: 26
+Lanturn
+Level: 45
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
+Mantine
+Level: 45
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_DENISE ===
@@ -8433,12 +8509,12 @@ Music: Swimmer
 Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
-Wingull
-Level: 25
+Carracosta
+Level: 45
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-Goldeen
-Level: 25
+Swanna
+Level: 45
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_BETH ===
@@ -8450,8 +8526,12 @@ Music: Swimmer
 Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
-Goldeen
-Level: 26
+Masquerain
+Level: 45
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
+Seismitoad
+Level: 45
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_TARA ===
@@ -8463,12 +8543,12 @@ Music: Swimmer
 Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
-Horsea
-Level: 25
+Politoed
+Level: 45
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-Marill
-Level: 25
+Poliwrath
+Level: 45
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_MISSY ===
@@ -8480,8 +8560,12 @@ Music: Swimmer
 Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
-Goldeen
-Level: 26
+Omastar
+Level: 45
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
+Kabutops
+Level: 45
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_ALICE ===
@@ -8493,16 +8577,16 @@ Music: Swimmer
 Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
-Goldeen
-Level: 24
+Gyarados
+Level: 44
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-Wingull
-Level: 24
+Lapras
+Level: 44
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-Goldeen
-Level: 24
+Quagsire
+Level: 44
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_JENNY_1 ===
@@ -9317,12 +9401,12 @@ Music: Male
 Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
-Spheal
-Level: 25
+Octillery
+Level: 45
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-Machoke
-Level: 25
+Hitmontop
+Level: 45
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_ERNEST_2 ===
@@ -9819,16 +9903,24 @@ Items: Mega Ring
 Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
-Slugma
-Level: 29
+Vaporeon
+Level: 49
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+
+Garchomp
+Level: 49
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+
+Magcargo
+Level: 49
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Pelipper
-Level: 29
+Level: 49
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
-Grovyle
-Level: 31
+Sceptile @ Sceptilite
+Level: 50
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_BRENDAN_ROUTE_103_TREECKO ===
@@ -9881,16 +9973,24 @@ Items: Mega Ring
 Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
+Jolteon
+Level: 49
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+
+Garchomp
+Level: 49
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+
 Pelipper
-Level: 29
+Level: 49
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
-Lombre
-Level: 29
+Ludicolo
+Level: 49
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
-Combusken
-Level: 31
+Blaziken @ Blazikenite
+Level: 50
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_BRENDAN_ROUTE_103_TORCHIC ===
@@ -9943,16 +10043,24 @@ Items: Mega Ring
 Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
-Lombre
-Level: 29
+Flareon
+Level: 49
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
-Slugma
-Level: 29
+Garchomp
+Level: 49
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
-Marshtomp
-Level: 31
+Ludicolo
+Level: 49
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+
+Magcargo
+Level: 49
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+
+Swampert @ Swampertite
+Level: 50
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_MAY_ROUTE_103_MUDKIP ===
@@ -10005,16 +10113,24 @@ Items: Mega Ring
 Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
-Slugma
-Level: 29
+Vaporeon
+Level: 49
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
-Lombre
-Level: 29
+Garchomp
+Level: 49
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
-Grovyle
-Level: 31
+Magcargo
+Level: 49
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+
+Ludicolo
+Level: 49
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+
+Sceptile @ Sceptilite
+Level: 50
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_MAY_ROUTE_103_TREECKO ===
@@ -10067,16 +10183,24 @@ Items: Mega Ring
 Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
+Jolteon
+Level: 49
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+
+Garchomp
+Level: 49
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+
 Pelipper
-Level: 29
+Level: 49
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
-Lombre
-Level: 29
+Ludicolo
+Level: 49
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
-Combusken
-Level: 31
+Blaziken @ Blazikenite
+Level: 50
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_MAY_ROUTE_103_TORCHIC ===
@@ -10129,16 +10253,24 @@ Items: Mega Ring
 Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
-Lombre
-Level: 29
+Flareon
+Level: 49
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
-Slugma
-Level: 29
+Garchomp
+Level: 49
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
-Marshtomp
-Level: 31
+Ludicolo
+Level: 49
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+
+Magcargo
+Level: 49
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+
+Swampert @ Swampertite
+Level: 50
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_ISAAC_1 ===
@@ -10372,7 +10504,11 @@ Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
 Sandslash
-Level: 26
+Level: 45
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
+Camerupt
+Level: 45
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_LYDIA_2 ===
@@ -10517,7 +10653,11 @@ Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
 Breloom
-Level: 27
+Level: 47
+IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
+
+Primeape
+Level: 47
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 === TRAINER_LORENZO ===
@@ -10619,12 +10759,12 @@ Music: Cool
 Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
-Gloom
-Level: 26
+Vileplume
+Level: 47
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
-Roselia
-Level: 26
+Roserade
+Level: 47
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 === TRAINER_JENNA ===
@@ -11207,12 +11347,12 @@ Music: Aqua
 Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
-Zubat
-Level: 27
+Omastar
+Level: 49
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-Poochyena
-Level: 27
+Kabutops
+Level: 49
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_TABITHA_MT_CHIMNEY ===
@@ -11629,12 +11769,12 @@ Music: Male
 Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
-Nincada
-Level: 28
+Scyther
+Level: 47
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-Ninjask
-Level: 28
+Scizor
+Level: 47
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_GREG ===
@@ -11646,12 +11786,12 @@ Music: Male
 Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
-Volbeat
-Level: 25
+Leavanny
+Level: 47
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-Illumise
-Level: 25
+Crustle
+Level: 47
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_KENT ===
@@ -11664,7 +11804,11 @@ Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
 Ninjask
-Level: 25
+Level: 47
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
+Shedinja
+Level: 47
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_JAMES_1 ===
@@ -12084,11 +12228,11 @@ Double Battle: Yes
 AI: Smart Trainer / Prediction / Assumptions
 
 Volbeat
-Level: 25
+Level: 45
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Illumise
-Level: 25
+Level: 45
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_KIRA_AND_DAN_2 ===
@@ -12233,21 +12377,13 @@ Music: Suspicious
 Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
-Koffing
-Level: 25
+Weezing
+Level: 49
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-- Tackle
-- Self Destruct
-- Sludge
-- Smokescreen
 
-Koffing
-Level: 25
+Muk
+Level: 49
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-- Tackle
-- Poison Gas
-- Sludge
-- Smokescreen
 
 === TRAINER_KEIGO ===
 Name: KEIGO
@@ -12308,12 +12444,12 @@ Music: Male
 Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
-Swellow
-Level: 29
+Togekiss
+Level: 51
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 Xatu
-Level: 29
+Level: 51
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 === TRAINER_ASHLEY ===
@@ -12325,16 +12461,16 @@ Music: Girl
 Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
-Swablu
-Level: 27
+Gyarados
+Level: 50
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
-Swablu
-Level: 27
+Noctowl
+Level: 50
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
-Swablu
-Level: 27
+Crobat
+Level: 50
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_WALLY_MAUVILLE ===
@@ -12962,7 +13098,7 @@ Double Battle: Yes
 AI: Smart Trainer / Prediction / Assumptions
 
 Dustox
-Level: 27
+Level: 45
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Gust
 - Psybeam
@@ -12970,7 +13106,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Protect
 
 Beautifly
-Level: 27
+Level: 45
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Gust
 - Mega Drain
@@ -13213,12 +13349,12 @@ Music: Swimmer
 Double Battle: Yes
 AI: Smart Trainer / Prediction / Assumptions
 
-Goldeen
-Level: 27
+Gorebyss
+Level: 45
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-Tentacool
-Level: 25
+Huntail
+Level: 45
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_CHRIS ===
@@ -13230,20 +13366,20 @@ Music: Hiker
 Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
-Magikarp
-Level: 29
+Jellicent
+Level: 46
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-Tentacool
-Level: 20
+Swanna
+Level: 46
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-Feebas
-Level: 26
+Carracosta
+Level: 46
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-Carvanha
-Level: 23
+Seismitoad
+Level: 46
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_DAWSON ===
@@ -13597,16 +13733,16 @@ Music: Male
 Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
-Zigzagoon
-Level: 14
+Munchlax
+Level: 23
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Aron
-Level: 14
+Level: 23
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Electrike
-Level: 14
+Level: 23
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_GRUNT_MAGMA_HIDEOUT_1 ===
@@ -13924,12 +14060,12 @@ Music: Hiker
 Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
-Sandshrew
-Level: 25
+Dugtrio
+Level: 45
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
-Sandshrew
-Level: 25
+Mamoswine
+Level: 45
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 === TRAINER_JOSUE ===
@@ -13941,12 +14077,12 @@ Music: Cool
 Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
-Taillow
-Level: 25
+Staraptor
+Level: 45
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
-Wingull
-Level: 25
+Unfezant
+Level: 45
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 === TRAINER_CAMRON ===
@@ -13958,8 +14094,12 @@ Music: Swimmer
 Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
-Staryu
-Level: 26
+Starmie
+Level: 45
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
+Milotic
+Level: 45
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_CORY_1 ===
@@ -13971,16 +14111,16 @@ Music: Male
 Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
-Wingull
-Level: 24
+Pelipper
+Level: 44
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-Machop
-Level: 24
+Scrafty
+Level: 44
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-Tentacool
-Level: 24
+Sharpedo
+Level: 44
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_CAROLINA ===
@@ -13992,16 +14132,16 @@ Music: Cool
 Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
-Manectric
-Level: 24
+Zebstrika
+Level: 44
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 Swellow
-Level: 24
+Level: 44
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
-Manectric
-Level: 24
+Galvantula
+Level: 44
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 === TRAINER_ELIJAH ===
@@ -14014,11 +14154,11 @@ Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
 Skarmory
-Level: 25
+Level: 45
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-Skarmory
-Level: 25
+Altaria
+Level: 45
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_CELIA ===
@@ -14291,7 +14431,11 @@ Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
 Manectric
-Level: 26
+Level: 49
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
+Eelektross
+Level: 49
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_DAYTON ===
@@ -14303,12 +14447,12 @@ Music: Hiker
 Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
-Slugma
-Level: 25
+Magcargo
+Level: 47
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-Numel
-Level: 25
+Camerupt
+Level: 47
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_RACHEL ===
@@ -14320,8 +14464,12 @@ Music: Female
 Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
-Goldeen
-Level: 26
+Seaking
+Level: 47
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
+Dewgong
+Level: 47
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_LEONEL ===
@@ -16192,7 +16340,11 @@ Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
 Tropius
-Level: 30
+Level: 51
+IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
+
+Gliscor
+Level: 51
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 
 === TRAINER_STEVEN ===
@@ -17226,7 +17378,7 @@ AI: Smart Trainer / Prediction / Assumptions
 Mugshot: Purple
 
 Ninetales @ Heat Rock
-Level: 23
+Level: 26
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Ball: Premier
 Nature: Timid
@@ -17237,7 +17389,7 @@ Ability: Drought
 - Confuse Ray
 
 Numel
-Level: 23
+Level: 26
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Ball: Ultra
 Nature: Modest
@@ -17248,7 +17400,7 @@ Ability: Simple
 - Ancient Power
 
 Servine
-Level: 23
+Level: 26
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Ball: Poke
 Nature: Modest
@@ -17258,7 +17410,7 @@ Nature: Modest
 - Protect
 
 Larvesta
-Level: 24
+Level: 27
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Ball: Net
 Nature: Adamant
@@ -17279,8 +17431,8 @@ Double Battle: Yes
 AI: Smart Trainer / Prediction / Assumptions
 Mugshot: Purple
 
-Gastly
-Level: 23
+Haunter
+Level: 26
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Ball: Poke
 Nature: Modest
@@ -17290,7 +17442,7 @@ Nature: Modest
 - Icy Wind
 
 Tynamo
-Level: 23
+Level: 26
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Ball: Poke
 Nature: Adamant
@@ -17300,7 +17452,7 @@ Nature: Adamant
 - Charge
 
 Monferno
-Level: 23
+Level: 26
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Ball: Poke
 Nature: Adamant
@@ -17310,7 +17462,7 @@ Nature: Adamant
 - Thief
 
 Roselia
-Level: 24
+Level: 27
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Ball: Poke
 Nature: Modest
