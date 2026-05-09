@@ -797,13 +797,13 @@ Music: Hiker
 Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
-Sandslash
-Level: 23
+Dugtrio
+Level: 39
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
-- Dig
-- Slash
-- Sand Attack
-- Poison Sting
+
+Marowak
+Level: 39
+IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 === TRAINER_CHIP ===
 Name: CHIP
@@ -1277,11 +1277,12 @@ Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
 Swellow
-Level: 26
+Level: 43
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Quick Attack
-- Agility
-- Wing Attack
+
+Lopunny
+Level: 43
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_PARKER ===
 Name: PARKER
@@ -1292,12 +1293,13 @@ Music: Cool
 Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
-Spinda
-Level: 26
+Purugly
+Level: 43
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Teeter Dance
-- Dizzy Punch
-- Focus Punch
+
+Castform
+Level: 43
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_GEORGE ===
 Name: GEORGE
@@ -1308,12 +1310,13 @@ Music: Cool
 Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
-Slakoth @ Sitrus Berry
-Level: 26
+Porygon Z
+Level: 43
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Slack Off
-- Counter
-- Shadow Ball
+
+Exploud
+Level: 43
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_BERKE ===
 Name: BERKE
@@ -1324,11 +1327,13 @@ Music: Cool
 Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
-Vigoroth
-Level: 26
+Stantler
+Level: 43
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Focus Energy
-- Slash
+
+Slaking
+Level: 43
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_BRAXTON ===
 Name: BRAXTON
@@ -1650,10 +1655,12 @@ Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
 Delcatty
-Level: 26
+Level: 43
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Feint Attack
-- Shock Wave
+
+Ambipom
+Level: 43
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_ALEXIA ===
 Name: ALEXIA
@@ -1665,11 +1672,12 @@ Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
 Wigglytuff
-Level: 26
+Level: 43
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Defense Curl
-- Double Edge
-- Shadow Ball
+
+Zangoose
+Level: 43
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_JODY ===
 Name: JODY
@@ -1680,11 +1688,13 @@ Music: Cool
 Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
-Zangoose
-Level: 26
+Smeargle
+Level: 43
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Swords Dance
-- Slash
+
+Dunsparce
+Level: 43
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_WENDY ===
 Name: WENDY
@@ -3211,8 +3221,12 @@ Music: Intense
 Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
-Machop
-Level: 19
+Machamp
+Level: 41
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+
+Conkeldurr
+Level: 41
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_NOB_2 ===
@@ -3695,13 +3709,13 @@ Music: Male
 Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
-Sandshrew
-Level: 23
+Sandslash
+Level: 39
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-- Dig
-- Sand Attack
-- Poison Sting
-- Slash
+
+Dugtrio
+Level: 39
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_BEAU ===
 Name: BEAU
@@ -3712,29 +3726,17 @@ Music: Male
 Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
-Baltoy
-Level: 21
+Claydol
+Level: 38
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-- Rapid Spin
-- Mud Slap
-- Psybeam
-- Rock Tomb
 
-Sandshrew
-Level: 21
+Steelix
+Level: 38
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-- Poison Sting
-- Sand Attack
-- Scratch
-- Dig
 
-Baltoy
-Level: 21
+Palpitoad
+Level: 38
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-- Rapid Spin
-- Mud Slap
-- Psybeam
-- Rock Tomb
 
 === TRAINER_LARRY ===
 Name: LARRY
@@ -5092,28 +5094,28 @@ Items: Mega Ring
 Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
-Sawsbuck
-Level: 39
+Sawsbuck @ Miracle Seed
+Level: 44
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Nature: Adamant
 Ability: Serene Grace
 - Horn Leech
 - Stomping Tantrum
-- Headbutt
+- Retaliate
 - Play Rough
 
-Staraptor
-Level: 39
+Staraptor @ Sharp Beak
+Level: 44
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Nature: Adamant
 Ability: Intimidate
 - Close Combat
 - U-turn
 - Aerial Ace
-- Double-Edge
+- Retaliate
 
-Bibarel
-Level: 39
+Bibarel @ Mystic Water
+Level: 44
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Nature: Adamant
 Ability: Moody
@@ -5122,8 +5124,8 @@ Ability: Moody
 - Crunch
 - Bulldoze
 
-Girafarig
-Level: 39
+Girafarig @ Twisted Spoon
+Level: 44
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Nature: Modest
 Ability: Inner Focus
@@ -5133,7 +5135,7 @@ Ability: Inner Focus
 - Shadow Ball
 
 Kangaskhan @ Kangaskhanite 
-Level: 39
+Level: 44
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Nature: Adamant
 Ability: Inner Focus
@@ -5143,11 +5145,11 @@ Ability: Inner Focus
 - Power Up Punch
 
 Slaking
-Level: 40
+Level: 45
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Nature: Adamant
 - Throat Chop
-- Body Slam
+- Retaliate
 - Drain Punch
 - Earthquake
 
@@ -8142,12 +8144,12 @@ Music: Intense
 Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
-Meditite
-Level: 18
+Sawk
+Level: 41
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
-Makuhita
-Level: 18
+Throh
+Level: 41
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_CORA ===
@@ -8808,21 +8810,13 @@ Music: Girl
 Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
-Sandshrew
-Level: 22
+Nidoking
+Level: 39
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-- Dig
-- Sand Attack
-- Poison Sting
-- Slash
 
-Baltoy
-Level: 22
+Nidoqueen
+Level: 39
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-- Rapid Spin
-- Mud Slap
-- Psybeam
-- Rock Tomb
 
 === TRAINER_BECKY ===
 Name: BECKY
@@ -8833,21 +8827,13 @@ Music: Girl
 Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
-Sandshrew
-Level: 22
+Donphan
+Level: 39
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-- Sand Attack
-- Poison Sting
-- Slash
-- Dig
 
-Marill
-Level: 22
+Octillery
+Level: 39
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-- Rollout
-- Bubble Beam
-- Tail Whip
-- Defense Curl
 
 === TRAINER_CAROL ===
 Name: CAROL
@@ -9637,11 +9623,11 @@ Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
 Zangoose
-Level: 18
+Level: 41
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Seviper
-Level: 18
+Level: 41
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_TABITHA_MOSSDEEP ===
@@ -14044,12 +14030,12 @@ Music: Girl
 Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
-Marill
-Level: 22
+Roserade
+Level: 39
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-Lombre
-Level: 22
+Venusaur
+Level: 39
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_BRYAN ===
@@ -14061,12 +14047,12 @@ Music: Hiker
 Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
-Sandshrew
-Level: 22
+Quagsire
+Level: 39
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-Sandslash
-Level: 22
+Gliscor
+Level: 39
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_BRANDEN ===
@@ -14078,12 +14064,12 @@ Music: Male
 Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
-Taillow
-Level: 22
+Fearow
+Level: 39
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-Nuzleaf
-Level: 22
+Sceptile
+Level: 39
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_BRYANT ===
@@ -14197,12 +14183,12 @@ Music: Intense
 Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
-Meditite
-Level: 18
+Gallade
+Level: 41
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-Spoink
-Level: 18
+Grumpig
+Level: 41
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_DEVAN ===
