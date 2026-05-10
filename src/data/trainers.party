@@ -766,16 +766,13 @@ Music: Cool
 Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
-Medicham
-Level: 43
+Klinklang
+Level: 74
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-- Psychic
 
-Claydol
-Level: 43
+Ferrothorn
+Level: 74
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-- Skill Swap
-- Earthquake
 
 === TRAINER_VIOLET ===
 Name: VIOLET
@@ -1498,12 +1495,12 @@ Music: Cool
 Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
-Cacturne
-Level: 43
+Hippowdon
+Level: 74
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
-Pelipper
-Level: 43
+Excadrill
+Level: 74
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_ALBERT ===
@@ -1516,11 +1513,11 @@ Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
 Magneton
-Level: 43
+Level: 74
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 Muk
-Level: 43
+Level: 74
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_SAMUEL ===
@@ -1533,15 +1530,15 @@ Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
 Swellow
-Level: 42
+Level: 73
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 Mawile
-Level: 42
+Level: 73
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
-Kadabra
-Level: 42
+Alakazam
+Level: 73
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_VITO ===
@@ -1553,20 +1550,20 @@ Music: Cool
 Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
-Dodrio
-Level: 42
+Reuniclus
+Level: 73
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
-Kadabra
-Level: 42
+Amoonguss
+Level: 73
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 Electrode
-Level: 42
+Level: 73
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
-Shiftry
-Level: 42
+Vanilluxe
+Level: 73
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_OWEN ===
@@ -1579,15 +1576,15 @@ Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
 Kecleon
-Level: 42
+Level: 73
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
-Graveler
-Level: 42
+Steelix
+Level: 73
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 Wailord
-Level: 42
+Level: 73
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_WILTON_2 ===
@@ -1683,12 +1680,12 @@ Music: Cool
 Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
-Graveler
-Level: 33
+Golem
+Level: 70
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
-Ludicolo
-Level: 33
+Corsola
+Level: 70
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_MARY ===
@@ -1827,8 +1824,12 @@ Music: Cool
 Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
-Roselia
-Level: 45
+Victreebel
+Level: 74
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+
+Vileplume
+Level: 74
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_SHANNON ===
@@ -1841,7 +1842,11 @@ Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
 Claydol
-Level: 45
+Level: 74
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+
+Golurk
+Level: 74
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_MICHELLE ===
@@ -1854,15 +1859,15 @@ Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
 Torkoal
-Level: 42
+Level: 73
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
-Medicham
-Level: 42
+Carnivine
+Level: 73
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
-Ludicolo
-Level: 42
+Glaceon
+Level: 73
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_CAROLINE ===
@@ -1875,11 +1880,11 @@ Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
 Skarmory
-Level: 43
+Level: 74
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 Sableye
-Level: 43
+Level: 74
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_JULIE ===
@@ -1892,15 +1897,15 @@ Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
 Sandslash
-Level: 42
+Level: 73
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 Ninetales
-Level: 42
+Level: 73
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 Tropius
-Level: 42
+Level: 73
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_BROOKE_2 ===
@@ -2555,11 +2560,11 @@ Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
 Whiscash
-Level: 33
+Level: 70
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-Meditite
-Level: 33
+Gallade
+Level: 70
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 
 === TRAINER_GARRET ===
@@ -3099,8 +3104,12 @@ Music: Swimmer
 Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
-Sealeo
-Level: 34
+Dewgong
+Level: 70
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
+Walrein
+Level: 70
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_KEVIN ===
@@ -3129,8 +3138,12 @@ Music: Swimmer
 Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
-Gyarados
-Level: 34
+Mantine
+Level: 70
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
+Gastrodon
+Level: 70
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_DUDLEY ===
@@ -3257,12 +3270,12 @@ Music: Intense
 Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
-Machop
-Level: 32
+Lucario
+Level: 70
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
-Machoke
-Level: 32
+Conkeldurr
+Level: 70
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 
 === TRAINER_KIYO ===
@@ -3274,8 +3287,12 @@ Music: Intense
 Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
-Hariyama
-Level: 34
+Throh
+Level: 70
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+
+Sawk
+Level: 70
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_KOICHI ===
@@ -4729,7 +4746,7 @@ AI: Smart Trainer / Prediction / Assumptions
 Mugshot: Purple
 
 Krookodile @ Muscle Band
-Level: 74
+Level: 78
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Nature: Adamant
 Ability: Intimidate
@@ -4739,7 +4756,7 @@ Ability: Intimidate
 - Gunk Shot
 
 Drapion @ Scope Lens
-Level: 74
+Level: 78
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Nature: Adamant
 Ability: Sniper
@@ -4749,7 +4766,7 @@ Ability: Sniper
 - Brick Break
 
 Honchkrow @ Leftovers
-Level: 74
+Level: 78
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Nature: Adamant
 Ability: Moxie
@@ -4759,7 +4776,7 @@ Ability: Moxie
 - Sucker Punch
 
 Hydreigon @ Life Orb
-Level: 74
+Level: 78
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Nature: Modest
 - Dragon Pulse
@@ -4768,7 +4785,7 @@ Nature: Modest
 - Surf
 
 Tyranitar @ Chople Berry
-Level: 74
+Level: 78
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Nature: Adamant
 Ability: Sand Stream
@@ -4778,7 +4795,7 @@ Ability: Sand Stream
 - Brick Break
 
 Absol @ Absolite Z
-Level: 75
+Level: 79
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Nature: Adamant
 - Phantom Force
@@ -4798,7 +4815,7 @@ AI: Smart Trainer / Prediction / Assumptions
 Mugshot: Green
 
 Drifblim @ Flame Orb
-Level: 75
+Level: 78
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Nature: Modest
 Ability: Flare Boost
@@ -4808,7 +4825,7 @@ Ability: Flare Boost
 - Tailwind
 
 Jellicent @ Leftovers
-Level: 75
+Level: 78
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Nature: Modest
 Ability: Water Absorb
@@ -4818,7 +4835,7 @@ Ability: Water Absorb
 - Ice Beam
 
 Chandelure @ Wise Glasses
-Level: 75
+Level: 78
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Nature: Modest
 Ability: Flame Body
@@ -4828,7 +4845,7 @@ Ability: Flame Body
 - Psychic
 
 Golurk @ Muscle Band
-Level: 75
+Level: 78
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Nature: Adamant
 Ability: Iron Fist
@@ -4838,7 +4855,7 @@ Ability: Iron Fist
 - Thunder Punch
 
 Gengar @ Gengarite
-Level: 75
+Level: 78
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Nature: Modest
 - Shadow Ball
@@ -4847,7 +4864,7 @@ Nature: Modest
 - Dazzling Gleam
 
 Dusclops @ Eviolite
-Level: 76
+Level: 79
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Nature: Adamant
 Ability: Pressure
@@ -4868,7 +4885,7 @@ AI: Smart Trainer / Prediction / Assumptions
 Mugshot: Pink
 
 Weavile @ Focus Sash
-Level: 76
+Level: 78
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Nature: Adamant
 Ability: Pressure
@@ -4878,7 +4895,7 @@ Ability: Pressure
 - Fake Out
 
 Rotom Frost @ Wise Glasses
-Level: 76
+Level: 78
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Nature: Modest
 - Blizzard
@@ -4887,7 +4904,7 @@ Nature: Modest
 - Parting Shot
 
 Mamoswine @ Muscle Band
-Level: 76
+Level: 78
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Nature: Adamant
 Ability: Thick Fat
@@ -4897,7 +4914,7 @@ Ability: Thick Fat
 - Heavy Slam
 
 Froslass @ Choice Specs
-Level: 76
+Level: 78
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Nature: Modest
 Ability: Snow Cloak
@@ -4907,7 +4924,7 @@ Ability: Snow Cloak
 - Thunderbolt
 
 Abomasnow @ Abomasite
-Level: 76
+Level: 78
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Nature: Modest
 - Ice Beam
@@ -4916,7 +4933,7 @@ Nature: Modest
 - Focus Blast
 
 Walrein @ Leftovers
-Level: 77
+Level: 79
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Nature: Modest
 Ability: Ice Body
@@ -4937,7 +4954,7 @@ AI: Smart Trainer / Prediction / Assumptions
 Mugshot: Blue
 
 Kingdra @ Choice Band
-Level: 77
+Level: 78
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Nature: Adamant
 Ability: Sniper
@@ -4947,7 +4964,7 @@ Ability: Sniper
 - Flip Turn
 
 Haxorus @ Choice Scarf
-Level: 77
+Level: 78
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Nature: Adamant
 Ability: Mold Breaker
@@ -4957,7 +4974,7 @@ Ability: Mold Breaker
 - X-Scissor
 
 Dragonite @ Yache Berry
-Level: 77
+Level: 78
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Nature: Adamant
 Ability: Multiscale
@@ -4967,7 +4984,7 @@ Ability: Multiscale
 - Extreme Speed
 
 Garchomp @ Rocky Helmet
-Level: 77
+Level: 78
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Nature: Adamant
 Ability: Rough Skin
@@ -4977,7 +4994,7 @@ Ability: Rough Skin
 - Swords Dance
 
 Hydreigon @ Choice Specs
-Level: 77
+Level: 78
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Nature: Modest
 - Dragon Pulse
@@ -4986,7 +5003,7 @@ Nature: Modest
 - Flash Cannon
 
 Salamence @ Salamencite
-Level: 78
+Level: 79
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Nature: Adamant
 Ability: Intimidate
@@ -6418,20 +6435,12 @@ Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
 Slaking
-Level: 43
+Level: 74
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Attract
-- Ice Beam
-- Thunderbolt
-- Flamethrower
 
-Dusclops
-Level: 43
+Dusknoir
+Level: 74
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Skill Swap
-- Protect
-- Will O Wisp
-- Toxic
 
 === TRAINER_KATELYNN ===
 Name: KATELYNN
@@ -6443,20 +6452,12 @@ Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
 Gardevoir
-Level: 43
+Level: 74
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Skill Swap
-- Psychic
-- Thunderbolt
-- Calm Mind
 
-Slaking
-Level: 43
+Snorlax
+Level: 74
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Earthquake
-- Shadow Ball
-- Aerial Ace
-- Brick Break
 
 === TRAINER_JAYLEN ===
 Name: JAYLEN
@@ -6627,7 +6628,7 @@ AI: Smart Trainer / Prediction / Assumptions
 Mugshot: Yellow
 
 Blastoise @ Choice Specs
-Level: 78
+Level: 81
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Nature: Modest
 - Hydro Pump
@@ -6636,7 +6637,7 @@ Nature: Modest
 - Flash Cannon
 
 Samurott @ Muscle Band
-Level: 78
+Level: 81
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Nature: Adamant
 - Megahorn
@@ -6645,7 +6646,7 @@ Nature: Adamant
 - Aqua Jet
 
 Empoleon @ Wise Glasses
-Level: 78
+Level: 81
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Nature: Modest
 - Surf
@@ -6654,7 +6655,7 @@ Nature: Modest
 - Vacuum Wave
 
 Swampert @ Leftovers
-Level: 78
+Level: 81
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Nature: Adamant
 - Earthquake
@@ -6663,7 +6664,7 @@ Nature: Adamant
 - Brick Break
 
 Feraligatr @ Feraligite
-Level: 78
+Level: 81
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Nature: Adamant
 - Liquidation
@@ -6672,7 +6673,7 @@ Nature: Adamant
 - Psychic Fangs
 
 Milotic @ Flame Orb
-Level: 79
+Level: 82
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Nature: Modest
 Ability: Marvel Scale
@@ -6980,28 +6981,12 @@ Music: Hiker
 Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
-Magikarp
-Level: 19
+Blastoise
+Level: 70
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-Gyarados
-Level: 21
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
-Gyarados
-Level: 23
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
-Gyarados
-Level: 26
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
-Gyarados
-Level: 30
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
-Gyarados
-Level: 35
+Golduck
+Level: 70
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_JACOB ===
@@ -7715,13 +7700,13 @@ Music: Intense
 Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
-Bagon
-Level: 34
+Salamence
+Level: 70
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Dragon Breath
-- Headbutt
-- Focus Energy
-- Ember
+
+Hydreigon
+Level: 70
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_PERRY ===
 Name: PERRY
@@ -7995,12 +7980,12 @@ Music: Cool
 Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
-Natu
-Level: 33
+Staraptor
+Level: 70
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
-Swellow
-Level: 33
+Gliscor
+Level: 70
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 === TRAINER_BECK ===
@@ -8013,7 +7998,11 @@ Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
 Tropius
-Level: 34
+Level: 70
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
+Drifblim
+Level: 70
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_YASU ===
@@ -8058,17 +8047,13 @@ Gender: Female
 Music: Cool
 Double Battle: No
 
-Claydol
-Level: 43
+Stunfisk
+Level: 74
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-- Skill Swap
-- Earthquake
 
-Lanturn
-Level: 43
+Beheeyem
+Level: 74
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-- Thunderbolt
-- Earthquake
 
 === TRAINER_JANI ===
 Name: JANI
@@ -8884,8 +8869,12 @@ Music: Swimmer
 Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
-Seaking
-Level: 34
+Politoed
+Level: 70
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
+Poliwrath
+Level: 70
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_LINDA ===
@@ -8932,11 +8921,11 @@ Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
 Luvdisc
-Level: 33
+Level: 70
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-Luvdisc
-Level: 33
+Relicanth
+Level: 70
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_CARLEE ===
@@ -9747,12 +9736,12 @@ Music: Male
 Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
-Machoke
-Level: 33
+Mienshao
+Level: 70
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
-Spheal
-Level: 33
+Lapras
+Level: 70
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 === TRAINER_MARLEY ===
@@ -9764,13 +9753,13 @@ Music: Cool
 Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
-Manectric
-Level: 34
+Ampharos
+Level: 70
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Bite
-- Roar
-- Thunder Wave
-- Thunderbolt
+
+Raichu
+Level: 70
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_REYNA ===
 Name: REYNA
@@ -9781,12 +9770,12 @@ Music: Intense
 Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
-Meditite
-Level: 33
+Emboar
+Level: 70
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
-Hariyama
-Level: 33
+Infernape
+Level: 70
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 
 === TRAINER_HUDSON ===
@@ -9811,12 +9800,12 @@ Music: Intense
 Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
-Chinchou
-Level: 33
+Rotom Wash
+Level: 70
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-Hariyama
-Level: 33
+Primeape
+Level: 70
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 
 === TRAINER_EDWIN_1 ===
@@ -9952,45 +9941,53 @@ Items: Mega Ring
 Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
-Altaria
-Level: 44
+Altaria @ Choice Specs
+Level: 75
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Aerial Ace
-- Safeguard
-- Dragon Breath
-- Dragon Dance
+- Draco Meteor
+- Hurricane
+- Ice Beam
+- Flamethrower
 
-Delcatty
-Level: 43
+Delcatty @ Red Card
+Level: 75
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Sing
+- Retaliate
 - Assist
 - Charm
-- Feint Attack
+- Attract
 
-Roselia
-Level: 44
+Roserade @ Black Sludge
+Level: 75
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Magical Leaf
+- Leaf Storm
 - Leech Seed
 - Giga Drain
-- Toxic
+- Sludge Bomb
 
-Magneton
-Level: 41
+Magnezone @ Air Balloon
+Level: 75
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Supersonic
+- Flash Cannon
 - Thunderbolt
 - Tri Attack
-- Screech
+- Signal Beam
 
-Gardevoir
-Level: 45
+Tyranitar @ Focus Sash
+Level: 75
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Double Team
-- Calm Mind
+- Earthquake
+- Stone Edge
+- Crunch
+- Dragon Dance
+
+Gardevoir @ Gardevoirite
+Level: 76
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Psychic
-- Future Sight
+- Calm Mind
+- Thunderbolt
+- Energy Ball
 
 === TRAINER_BRENDAN_ROUTE_103_MUDKIP ===
 Name: BRENDAN
@@ -10482,21 +10479,13 @@ Music: Cool
 Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
-Lunatone
-Level: 43
+Garbodor
+Level: 74
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-- Explosion
-- Reflect
-- Light Screen
-- Psychic
 
-Solrock
-Level: 43
+Maractus
+Level: 74
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-- Explosion
-- Reflect
-- Light Screen
-- Shadow Ball
 
 === TRAINER_ISAAC_2 ===
 Name: ISAAC
@@ -10656,12 +10645,12 @@ Music: Cool
 Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
-Sableye
-Level: 43
+Swoobat
+Level: 74
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Absol
-Level: 43
+Level: 74
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_GARRISON ===
@@ -11531,11 +11520,11 @@ Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
 Swellow
-Level: 33
+Level: 70
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Breloom
-Level: 33
+Level: 70
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_ISABELLA ===
@@ -11607,11 +11596,11 @@ Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
 Kecleon
-Level: 33
+Level: 70
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-Loudred
-Level: 33
+Exploud
+Level: 70
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_BRENDAN_RUSTBORO_TORCHIC ===
@@ -14364,11 +14353,11 @@ Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
 Pelipper
-Level: 33
+Level: 70
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Camerupt
-Level: 33
+Level: 70
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_MAXIE_MOSSDEEP ===
@@ -14784,12 +14773,12 @@ Music: Intense
 Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
-Roselia
-Level: 33
+Roserade
+Level: 70
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Medicham
-Level: 33
+Level: 70
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_FABIAN ===
@@ -17956,7 +17945,7 @@ AI: Smart Trainer / Prediction / Assumptions
 Mugshot: Purple
 
 Ninetales @ Heat Rock
-Level: 71
+Level: 75
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Ball: Premier
 Nature: Timid
@@ -17967,7 +17956,7 @@ Ability: Drought
 - Light Screen
 
 Camerupt @ Cameruptite
-Level: 71
+Level: 75
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Ball: Ultra
 Nature: Modest
@@ -17977,7 +17966,7 @@ Nature: Modest
 - Protect
 
 Serperior @ Wide Lens
-Level: 71
+Level: 75
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Ball: Poke
 Nature: Modest
@@ -17987,7 +17976,7 @@ Nature: Modest
 - Protect
 
 Volcarona @ Focus Sash
-Level: 71
+Level: 75
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Ball: Net
 Nature: Modest
@@ -17998,7 +17987,7 @@ Ability: Flame Body
 - Quiver Dance
 
 Hydreigon @ Choice Specs
-Level: 71
+Level: 75
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Ball: Dusk
 Nature: Timid
@@ -18008,7 +17997,7 @@ Nature: Timid
 - Earth Power
 
 Reshiram @ Life Orb
-Level: 72
+Level: 76
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Ball: Master
 Nature: Modest
@@ -18029,7 +18018,7 @@ AI: Smart Trainer / Prediction / Assumptions
 Mugshot: Purple
 
 Gengar @ Leftovers
-Level: 71
+Level: 75
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Ball: Poke
 Nature: Modest
@@ -18039,7 +18028,7 @@ Nature: Modest
 - Nasty Plot
 
 Garchomp @ Rocky Helmet
-Level: 71
+Level: 75
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Ball: Poke
 Nature: Adamant
@@ -18050,7 +18039,7 @@ Ability: Rough Skin
 - Poison Jab
 
 Eelektross @ Wise Glasses
-Level: 71
+Level: 75
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Ball: Poke
 Nature: Modest
@@ -18060,7 +18049,7 @@ Nature: Modest
 - Flash Cannon
 
 Infernape @ Black Belt
-Level: 71
+Level: 75
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Ball: Poke
 Nature: Adamant
@@ -18070,7 +18059,7 @@ Nature: Adamant
 - Thunder Punch
 
 Roserade @ Black Sludge
-Level: 71
+Level: 75
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Ball: Poke
 Nature: Modest
@@ -18081,7 +18070,7 @@ Ability: Technician
 - Dazzling Gleam
 
 Rayquaza @ Dragon Fang
-Level: 72
+Level: 76
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Ball: Poke
 Nature: Adamant
