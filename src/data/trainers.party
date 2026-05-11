@@ -672,35 +672,64 @@ Items: Mega Ring
 Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
-Pelipper
+Pelipper @ Damp Rock
 Level: 67
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Nature: Modest
+Ability: Drizzle
+- Hurricane
+- Hydro Pump
+- Ice Beam
+- Tailwind
 
-Politoed
+Politoed @ Choice Specs
 Level: 67
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Nature: Modest
+Ability: Drizzle
+- Earth Power
+- Hydro Pump
+- Psychic
+- Focus Blast
 
-Crawdaunt
+Crawdaunt @ Choice Band
 Level: 67
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Nature: Adamant
+Ability: Adaptability
+- Crabhammer
+- Close Combat
+- X-Scissor
+- Crunch
 
-Gyarados
+Gyarados @ Wacan Berry
 Level: 67
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Nature: Adamant
+Ability: Moxie
+- Waterfall
+- Temper Flare
+- Earthquake
+- Stone Edge
 
-Kingdra
+Kingdra @ Lum Berry
 Level: 67
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Nature: Modest
+Ability: Swift Swim
+- Dragon Pulse
+- Surf
+- Rest
+- Sleep Talk
 
 Sharpedo @ Sharpedonite
 Level: 68
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Nature: Adamant
+- Liquidation
+- Psychic Fangs
+- Poison Jab
+- Crunch
 
 === TRAINER_LEAH ===
 Name: LEAH
@@ -5484,6 +5513,7 @@ Sharpedo @ Sharpedonite
 Level: 69
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Nature: Adamant
+Ability: Speed Boost
 - Liquidation
 - Crunch
 - Poison Jab
@@ -5493,6 +5523,7 @@ Kingdra @ Muscle Band
 Level: 70
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Nature: Adamant
+Ability: Swift Swim
 - Wave Crash
 - Outrage
 - Flip Turn
@@ -12936,29 +12967,64 @@ Items: Mega Ring
 Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
-Vaporeon
+Vaporeon @ Leftovers
 Level: 53
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Nature: Modest
+Ability: Water Absorb
+- Ice Beam
+- Surf
+- Alluring Voice
+- Shadow Ball
 
-Garchomp
+Garchomp @ Rocky Helmet
 Level: 53
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Nature: Adamant
+Ability: Rough Skin
+- Dragon Claw
+- Earthquake
+- Dragon Dance
+- Poison Jab
 
-Tropius
+Tropius @ White Herb
 Level: 53
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Nature: Modest
+Ability: Chlorophyll
+- Air Slash
+- Leaf Storm
+- Giga Drain
+- Tailwind
 
-Magcargo
+Magcargo @ Air Balloon
 Level: 53
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Nature: Modest
+Ability: Flame Body
+- Sunny Day
+- Flamethrower
+- Earth Power
+- Power Gem
 
-Pelipper
+Pelipper @ Wacan Berry
 Level: 53
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Nature: Modest
+Ability: Drizzle
+- Ice Beam
+- Surf
+- Tailwind
+- Hurricane
 
 Sceptile @ Sceptilite
 Level: 54
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Nature: Modest
+- Giga Drain
+- Dragon Pulse
+- Leaf Storm
+- Focus Blast
 
 === TRAINER_BRENDAN_LILYCOVE_TREECKO ===
 Name: BRENDAN
@@ -12970,29 +13036,64 @@ Items: Mega Ring
 Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
-Jolteon
+Jolteon @ Air Balloon
 Level: 53
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Nature: Modest
+Ability: Volt Absorb
+- Thunderbolt
+- Volt Switch
+- Signal Beam
+- Alluring Voice
 
-Garchomp
+Garchomp @ Rocky Helmet
 Level: 53
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Nature: Adamant
+Ability: Rough Skin
+- Dragon Claw
+- Earthquake
+- Dragon Dance
+- Poison Jab
 
-Tropius
+Tropius @ White Herb
 Level: 53
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Nature: Modest
+Ability: Chlorophyll
+- Air Slash
+- Leaf Storm
+- Giga Drain
+- Tailwind
 
-Pelipper
+Pelipper @ Wacan Berry
 Level: 53
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Nature: Modest
+Ability: Drizzle
+- Ice Beam
+- Surf
+- Tailwind
+- Hurricane
 
-Ludicolo
+Ludicolo @ Choice Specs
 Level: 53
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Nature: Modest
+Ability: Swift Swim
+- Hydro Pump
+- Energy Ball
+- Focus Blast
+- Ice Beam
 
 Blaziken @ Blazikenite
 Level: 54
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Nature: Adamant
+- Flare Blitz
+- Close Combat
+- Brave Bird
+- Swords Dance
 
 === TRAINER_BRENDAN_LILYCOVE_TORCHIC ===
 Name: BRENDAN
@@ -13004,29 +13105,64 @@ Items: Mega Ring
 Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
-Flareon
+Flareon @ Flame Orb
 Level: 53
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Nature: Adamant
+Ability: Guts
+- Flare Blitz
+- Trailblaze
+- Body Slam
+- Dig
 
-Garchomp
+Garchomp @ Rocky Helmet
 Level: 53
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Nature: Adamant
+Ability: Rough Skin
+- Dragon Claw
+- Earthquake
+- Dragon Dance
+- Poison Jab
 
-Tropius
+Tropius @ White Herb
 Level: 53
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Nature: Modest
+Ability: Chlorophyll
+- Air Slash
+- Leaf Storm
+- Giga Drain
+- Tailwind
 
-Ludicolo
+Ludicolo @ Choice Specs
 Level: 53
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Nature: Modest
+Ability: Swift Swim
+- Hydro Pump
+- Energy Ball
+- Focus Blast
+- Ice Beam
 
-Magcargo
+Magcargo @ Air Balloon
 Level: 53
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Nature: Modest
+Ability: Flame Body
+- Sunny Day
+- Flamethrower
+- Earth Power
+- Power Gem
 
 Swampert @ Swampertite
 Level: 54
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Nature: Adamant
+- Earthquake
+- Ice Punch
+- Liquidation
+- Brick Break
 
 === TRAINER_MAY_LILYCOVE_MUDKIP ===
 Name: MAY
@@ -13038,35 +13174,64 @@ Items: Mega Ring
 Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
-Vaporeon
+Vaporeon @ Leftovers
 Level: 53
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Nature: Modest
+Ability: Water Absorb
+- Ice Beam
+- Surf
+- Alluring Voice
+- Shadow Ball
 
-Garchomp
+Garchomp @ Rocky Helmet
 Level: 53
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Nature: Adamant
+Ability: Rough Skin
+- Dragon Claw
+- Earthquake
+- Dragon Dance
+- Poison Jab
 
-Tropius
-Level: 53
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-Nature: Adamant
-
-Magcargo
-Level: 53
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-Nature: Modest
-
-Pelipper
+Tropius @ White Herb
 Level: 53
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Nature: Modest
+Ability: Chlorophyll
+- Air Slash
+- Leaf Storm
+- Giga Drain
+- Tailwind
+
+Magcargo @ Air Balloon
+Level: 53
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Nature: Modest
+Ability: Flame Body
+- Sunny Day
+- Flamethrower
+- Earth Power
+- Power Gem
+
+Pelipper @ Wacan Berry
+Level: 53
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Nature: Modest
+Ability: Drizzle
+- Ice Beam
+- Surf
+- Tailwind
+- Hurricane
 
 Sceptile @ Sceptilite
 Level: 54
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Nature: Modest
+- Giga Drain
+- Dragon Pulse
+- Leaf Storm
+- Focus Blast
 
 === TRAINER_MAY_LILYCOVE_TREECKO ===
 Name: MAY
@@ -13078,35 +13243,64 @@ Items: Mega Ring
 Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
-Jolteon
+Jolteon @ Air Balloon
 Level: 53
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Nature: Modest
+Ability: Volt Absorb
+- Thunderbolt
+- Volt Switch
+- Signal Beam
+- Alluring Voice
 
-Garchomp
+Garchomp @ Rocky Helmet
 Level: 53
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Nature: Adamant
+Ability: Rough Skin
+- Dragon Claw
+- Earthquake
+- Dragon Dance
+- Poison Jab
 
-Tropius
+Tropius @ White Herb
 Level: 53
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Nature: Modest
+Ability: Chlorophyll
+- Air Slash
+- Leaf Storm
+- Giga Drain
+- Tailwind
 
-Pelipper
+Pelipper @ Wacan Berry
 Level: 53
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Nature: Modest
+Ability: Drizzle
+- Ice Beam
+- Surf
+- Tailwind
+- Hurricane
 
-Ludicolo
+Ludicolo @ Choice Specs
 Level: 53
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Nature: Modest
+Ability: Swift Swim
+- Hydro Pump
+- Energy Ball
+- Focus Blast
+- Ice Beam
 
 Blaziken @ Blazikenite
 Level: 54
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Nature: Adamant
+- Flare Blitz
+- Close Combat
+- Brave Bird
+- Swords Dance
 
 === TRAINER_MAY_LILYCOVE_TORCHIC ===
 Name: MAY
@@ -13118,35 +13312,64 @@ Items: Mega Ring
 Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
-Flareon
+Flareon @ Flame Orb
 Level: 53
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Nature: Adamant
+Ability: Guts
+- Flare Blitz
+- Trailblaze
+- Body Slam
+- Dig
 
-Garchomp
+Garchomp @ Rocky Helmet
 Level: 53
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Nature: Adamant
+Ability: Rough Skin
+- Dragon Claw
+- Earthquake
+- Dragon Dance
+- Poison Jab
 
-Tropius
+Tropius @ White Herb
 Level: 53
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Nature: Modest
+Ability: Chlorophyll
+- Air Slash
+- Leaf Storm
+- Giga Drain
+- Tailwind
 
-Ludicolo
+Ludicolo @ Choice Specs
 Level: 53
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Nature: Modest
+Ability: Swift Swim
+- Hydro Pump
+- Energy Ball
+- Focus Blast
+- Ice Beam
 
-Magcargo
+Magcargo @ Air Balloon
 Level: 53
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Nature: Modest
+Ability: Flame Body
+- Sunny Day
+- Flamethrower
+- Earth Power
+- Power Gem
 
 Swampert @ Swampertite
 Level: 54
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Nature: Adamant
+- Earthquake
+- Ice Punch
+- Liquidation
+- Brick Break
 
 === TRAINER_JONAH ===
 Name: JONAH
@@ -14370,20 +14593,34 @@ Items: Mega Ring
 Double Battle: No
 AI: Smart Trainer / Prediction / Assumptions
 
-Ninetales
+Ninetales @ Heat Rock
 Level: 63
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Nature: Modest
+Ability: Drought
+- Heat Wave
+- Solar Beam
+- Will O Wisp
+- Shadow Ball
 
-Houndoom
+Houndoom @ Expert Belt
 Level: 63
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Nature: Modest
+Ability: 
+- Heat Wave
+- Solar Beam
+- Sludge Bomb
+- Dark Pulse
 
-Camerupt
+Camerupt @ Cameruptite
 Level: 64
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Nature: Modest
+- Heat Wave
+- Earth Power
+- Solar Beam
+- Flash Cannon
 
 === TRAINER_PETE ===
 Name: PETE
