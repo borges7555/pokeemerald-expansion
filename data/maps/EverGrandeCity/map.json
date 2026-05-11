@@ -47,7 +47,7 @@
       "flag": "FLAG_COVAS_EVERGRANDE"
     },
     {
-      "graphics_id": "OBJ_EVENT_GFX_RAYQUAZA_STILL",
+      "graphics_id": "OBJ_EVENT_GFX_SPECIES(RAYQUAZA)",
       "x": 22,
       "y": 7,
       "elevation": 0,

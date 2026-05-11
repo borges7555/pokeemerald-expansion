@@ -183,6 +183,15 @@ text FortreeCity_Text_Borges_PostBattle {
     format("BORGES: Good luck in the FORTREE CITY POKéMON GYM.")
 }
 
+script FortreeCity_EventScript_Ceruledge {
+    lock
+	faceplayer
+    msgbox(format("SHRIEK!"))
+    waitmessage
+    release
+    end
+}
+
 script FortreeCity_EventScript_CovasBattle {
     lock
     faceplayer
@@ -207,4 +216,13 @@ text FortreeCity_Text_Covas_NotEnoughPokemons {
 
 text FortreeCity_Text_Covas_PostBattle {
     format("COVAS: Desampara-me a loja preto.")
+}
+
+script FortreeCity_EventScript_Infernape {
+    lock
+	faceplayer
+    msgbox(format("REEEE-AAAH!"))
+    waitmessage
+    release
+    end
 }

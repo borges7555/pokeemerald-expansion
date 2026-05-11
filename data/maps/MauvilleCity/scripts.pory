@@ -692,6 +692,15 @@ text MauvilleCity_Text_Borges_PostBattle {
     format("BORGES: Good luck in the MAUVILLE CITY POKéMON GYM.")
 }
 
+script MauvilleCity_EventScript_Charcadet {
+    lock
+	faceplayer
+    msgbox(format("PEEP!"))
+    waitmessage
+    release
+    end
+}
+
 script MauvilleCity_EventScript_CovasBattle {
     lock
     faceplayer
@@ -716,4 +725,13 @@ text MauvilleCity_Text_Covas_NotEnoughPokemons {
 
 text MauvilleCity_Text_Covas_PostBattle {
     format("COVAS: Desampara-me a loja preto.")
+}
+
+script MauvilleCity_EventScript_Monferno {
+    lock
+	faceplayer
+    msgbox(format("KIIII-AKAK!"))
+    waitmessage
+    release
+    end
 }

@@ -135,7 +135,7 @@ EverGrandeCity_EventScript_Reshiram_Text_0:
 
 EverGrandeCity_EventScript_Rayquaza_Text_0:
 # 103 "data/maps/EverGrandeCity/scripts.pory"
-	.string "Kiyuryursheeah!$"
+	.string "KIYURYURSHEEAH!$"
 
 EverGrandeCity_Text_Borges_Intro::
 # 51 "data/maps/EverGrandeCity/scripts.pory"

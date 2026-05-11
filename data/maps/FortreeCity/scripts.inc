@@ -327,21 +327,57 @@ FortreeCity_EventScript_BorgesBattle::
 	end
 
 
-FortreeCity_EventScript_CovasBattle::
+FortreeCity_EventScript_Ceruledge::
 # 187 "data/maps/FortreeCity/scripts.pory"
 	lock
 # 188 "data/maps/FortreeCity/scripts.pory"
 	faceplayer
 # 189 "data/maps/FortreeCity/scripts.pory"
-	trainerbattle_double TRAINER_COVAS_FORTREE, FortreeCity_Text_Covas_Intro, FortreeCity_Text_Covas_Outro, FortreeCity_Text_Covas_NotEnoughPokemons
+	msgbox FortreeCity_EventScript_Ceruledge_Text_0
 # 190 "data/maps/FortreeCity/scripts.pory"
-	msgbox FortreeCity_Text_Covas_PostBattle, MSGBOX_AUTOCLOSE
-# 191 "data/maps/FortreeCity/scripts.pory"
 	waitmessage
-# 192 "data/maps/FortreeCity/scripts.pory"
+# 191 "data/maps/FortreeCity/scripts.pory"
 	release
 	end
 
+
+FortreeCity_EventScript_CovasBattle::
+# 196 "data/maps/FortreeCity/scripts.pory"
+	lock
+# 197 "data/maps/FortreeCity/scripts.pory"
+	faceplayer
+# 198 "data/maps/FortreeCity/scripts.pory"
+	trainerbattle_double TRAINER_COVAS_FORTREE, FortreeCity_Text_Covas_Intro, FortreeCity_Text_Covas_Outro, FortreeCity_Text_Covas_NotEnoughPokemons
+# 199 "data/maps/FortreeCity/scripts.pory"
+	msgbox FortreeCity_Text_Covas_PostBattle, MSGBOX_AUTOCLOSE
+# 200 "data/maps/FortreeCity/scripts.pory"
+	waitmessage
+# 201 "data/maps/FortreeCity/scripts.pory"
+	release
+	end
+
+
+FortreeCity_EventScript_Infernape::
+# 222 "data/maps/FortreeCity/scripts.pory"
+	lock
+# 223 "data/maps/FortreeCity/scripts.pory"
+	faceplayer
+# 224 "data/maps/FortreeCity/scripts.pory"
+	msgbox FortreeCity_EventScript_Infernape_Text_0
+# 225 "data/maps/FortreeCity/scripts.pory"
+	waitmessage
+# 226 "data/maps/FortreeCity/scripts.pory"
+	release
+	end
+
+
+FortreeCity_EventScript_Ceruledge_Text_0:
+# 189 "data/maps/FortreeCity/scripts.pory"
+	.string "SHRIEK!$"
+
+FortreeCity_EventScript_Infernape_Text_0:
+# 224 "data/maps/FortreeCity/scripts.pory"
+	.string "REEEE-AAAH!$"
 
 FortreeCity_Text_Borges_Intro::
 # 170 "data/maps/FortreeCity/scripts.pory"
@@ -364,17 +400,17 @@ FortreeCity_Text_Borges_PostBattle::
 	.string "POKéMON GYM.$"
 
 FortreeCity_Text_Covas_Intro::
-# 196 "data/maps/FortreeCity/scripts.pory"
+# 205 "data/maps/FortreeCity/scripts.pory"
 	.string "COVAS: Boa tarde.$"
 
 FortreeCity_Text_Covas_Outro::
-# 200 "data/maps/FortreeCity/scripts.pory"
+# 209 "data/maps/FortreeCity/scripts.pory"
 	.string "Fucking noob.$"
 
 FortreeCity_Text_Covas_NotEnoughPokemons::
-# 204 "data/maps/FortreeCity/scripts.pory"
+# 213 "data/maps/FortreeCity/scripts.pory"
 	.string "COVAS: Pobre.$"
 
 FortreeCity_Text_Covas_PostBattle::
-# 208 "data/maps/FortreeCity/scripts.pory"
+# 217 "data/maps/FortreeCity/scripts.pory"
 	.string "COVAS: Desampara-me a loja preto.$"

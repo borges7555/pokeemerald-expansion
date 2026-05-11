@@ -100,7 +100,7 @@ text EverGrandeCity_Text_Covas_PostBattle {
 
 script EverGrandeCity_EventScript_Rayquaza {
     lock
-    msgbox(format("Kiyuryursheeah!"))
+    msgbox(format("KIYURYURSHEEAH!"))
     waitmessage
     release
     end
