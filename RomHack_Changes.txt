@@ -5,7 +5,7 @@ Pokemon Blinding Emerald Changes:
     - Add a npc that gives the player a starter of its choice per 2 gyms cleared (done)
     - Add BORGES and COVAS in MAUVILLE, FORTREE and EVERGRANDE (done)
     - Change wild pokemon (done)
-    - Change trainers' teams
+    - Change trainers' teams (done)
     - Devon corp's employee gives exp share instead of great ball (done)
     - Steven's father gives mega stone instead of exp share (done)
     - Put a mega evolution stones seller in steven´s father company (done)

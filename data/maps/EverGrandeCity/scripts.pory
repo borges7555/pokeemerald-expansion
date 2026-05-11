@@ -64,6 +64,14 @@ text EverGrandeCity_Text_Borges_PostBattle {
     format("BORGES: Good luck in the POKéMON LEAGUE.")
 }
 
+script EverGrandeCity_EventScript_Reshiram {
+    lock
+    msgbox(format("PREEEAAH!"))
+    waitmessage
+    release
+    end
+}
+
 script EverGrandeCity_EventScript_CovasBattle {
     lock
     faceplayer
@@ -88,4 +96,12 @@ text EverGrandeCity_Text_Covas_NotEnoughPokemons {
 
 text EverGrandeCity_Text_Covas_PostBattle {
     format("COVAS: Desampara-me a loja preto.")
+}
+
+script EverGrandeCity_EventScript_Rayquaza {
+    lock
+    msgbox(format("Kiyuryursheeah!"))
+    waitmessage
+    release
+    end
 }

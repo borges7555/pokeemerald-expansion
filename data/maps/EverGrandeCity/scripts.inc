@@ -89,21 +89,53 @@ EverGrandeCity_EventScript_BorgesBattle::
 	end
 
 
-EverGrandeCity_EventScript_CovasBattle::
+EverGrandeCity_EventScript_Reshiram::
 # 68 "data/maps/EverGrandeCity/scripts.pory"
 	lock
 # 69 "data/maps/EverGrandeCity/scripts.pory"
-	faceplayer
+	msgbox EverGrandeCity_EventScript_Reshiram_Text_0
 # 70 "data/maps/EverGrandeCity/scripts.pory"
-	trainerbattle_double TRAINER_COVAS_EVERGRANDE, EverGrandeCity_Text_Covas_Intro, EverGrandeCity_Text_Covas_Outro, EverGrandeCity_Text_Covas_NotEnoughPokemons
-# 71 "data/maps/EverGrandeCity/scripts.pory"
-	msgbox EverGrandeCity_Text_Covas_PostBattle, MSGBOX_AUTOCLOSE
-# 72 "data/maps/EverGrandeCity/scripts.pory"
 	waitmessage
-# 73 "data/maps/EverGrandeCity/scripts.pory"
+# 71 "data/maps/EverGrandeCity/scripts.pory"
 	release
 	end
 
+
+EverGrandeCity_EventScript_CovasBattle::
+# 76 "data/maps/EverGrandeCity/scripts.pory"
+	lock
+# 77 "data/maps/EverGrandeCity/scripts.pory"
+	faceplayer
+# 78 "data/maps/EverGrandeCity/scripts.pory"
+	trainerbattle_double TRAINER_COVAS_EVERGRANDE, EverGrandeCity_Text_Covas_Intro, EverGrandeCity_Text_Covas_Outro, EverGrandeCity_Text_Covas_NotEnoughPokemons
+# 79 "data/maps/EverGrandeCity/scripts.pory"
+	msgbox EverGrandeCity_Text_Covas_PostBattle, MSGBOX_AUTOCLOSE
+# 80 "data/maps/EverGrandeCity/scripts.pory"
+	waitmessage
+# 81 "data/maps/EverGrandeCity/scripts.pory"
+	release
+	end
+
+
+EverGrandeCity_EventScript_Rayquaza::
+# 102 "data/maps/EverGrandeCity/scripts.pory"
+	lock
+# 103 "data/maps/EverGrandeCity/scripts.pory"
+	msgbox EverGrandeCity_EventScript_Rayquaza_Text_0
+# 104 "data/maps/EverGrandeCity/scripts.pory"
+	waitmessage
+# 105 "data/maps/EverGrandeCity/scripts.pory"
+	release
+	end
+
+
+EverGrandeCity_EventScript_Reshiram_Text_0:
+# 69 "data/maps/EverGrandeCity/scripts.pory"
+	.string "PREEEAAH!$"
+
+EverGrandeCity_EventScript_Rayquaza_Text_0:
+# 103 "data/maps/EverGrandeCity/scripts.pory"
+	.string "Kiyuryursheeah!$"
 
 EverGrandeCity_Text_Borges_Intro::
 # 51 "data/maps/EverGrandeCity/scripts.pory"
@@ -125,17 +157,17 @@ EverGrandeCity_Text_Borges_PostBattle::
 	.string "LEAGUE.$"
 
 EverGrandeCity_Text_Covas_Intro::
-# 77 "data/maps/EverGrandeCity/scripts.pory"
+# 85 "data/maps/EverGrandeCity/scripts.pory"
 	.string "COVAS: Boa tarde.$"
 
 EverGrandeCity_Text_Covas_Outro::
-# 81 "data/maps/EverGrandeCity/scripts.pory"
+# 89 "data/maps/EverGrandeCity/scripts.pory"
 	.string "COVAS: Fucking noob.$"
 
 EverGrandeCity_Text_Covas_NotEnoughPokemons::
-# 85 "data/maps/EverGrandeCity/scripts.pory"
+# 93 "data/maps/EverGrandeCity/scripts.pory"
 	.string "COVAS: Pobre.$"
 
 EverGrandeCity_Text_Covas_PostBattle::
-# 89 "data/maps/EverGrandeCity/scripts.pory"
+# 97 "data/maps/EverGrandeCity/scripts.pory"
 	.string "COVAS: Desampara-me a loja preto.$"
