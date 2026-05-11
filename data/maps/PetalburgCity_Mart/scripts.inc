@@ -64,6 +64,8 @@ PetalburgCity_Mart_Pokemart_Expanded:
 	.2byte ITEM_REAPER_CLOTH
 	.2byte ITEM_PRISM_SCALE
 	.2byte ITEM_OVAL_STONE
+	.2byte ITEM_AUSPICIOUS_ARMOR
+	.2byte ITEM_MALICIOUS_ARMOR
 	.2byte ITEM_ABILITY_CAPSULE
 	.2byte ITEM_ABILITY_PATCH
 	pokemartlistend

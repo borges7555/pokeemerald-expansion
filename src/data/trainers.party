@@ -17981,16 +17981,16 @@ Nature: Modest
 - Helping Hand
 - Protect
 
-Larvesta
+Charcadet
 Level: 27
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-Ball: Net
+Ball: Ultra
 Nature: Adamant
 Ability: Flame Body
-- Bug Bite
-- Flame Wheel
-- Trailblaze
-- Acrobatics
+- Flame Charge
+- Night Shade
+- Helping Hand
+- Will O Wisp
 
 === TRAINER_COVAS_MAUVILLE ===
 Name: COVAS
@@ -18086,16 +18086,16 @@ Nature: Modest
 - Glare
 - Protect
 
-Volcarona @ Focus Sash
+Ceruledge @ Assault Vest
 Level: 50
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-Ball: Net
-Nature: Modest
-Ability: Flame Body
-- Heat Wave
-- Bug Buzz
-- Giga Drain
-- Quiver Dance
+Ball: Ultra
+Nature: Adamant
+Ability: Weak Armor
+- Bitter Blade
+- Close Combat
+- Phantom Force
+- X-Scissor
 
 Zweilous @ Eviolite
 Level: 51
@@ -18212,6 +18212,7 @@ Nature: Modest
 - Glare
 - Protect
 
+/*
 Volcarona @ Focus Sash
 Level: 75
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
@@ -18222,6 +18223,29 @@ Ability: Flame Body
 - Bug Buzz
 - Giga Drain
 - Quiver Dance
+
+Armarouge @ Assault Vest
+Level: 75
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Ball: Ultra
+Nature: Modest
+Ability: Weak Armor
+- Heat Wave
+- Armor Cannon
+- Expanding Force
+- Shadow Ball
+*/
+
+Ceruledge @ Assault Vest
+Level: 75
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Ball: Ultra
+Nature: Adamant
+Ability: Weak Armor
+- Bitter Blade
+- Close Combat
+- Phantom Force
+- X-Scissor
 
 Hydreigon @ Choice Specs
 Level: 75
