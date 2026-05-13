@@ -303,15 +303,3 @@ PlayersHouse_2F_Text_ItsAGameCube:
 	.string "serve as the Controller.$"
 
 `
-
-script PlayersHouse_2F_EventScript_Give_DexNav {
-    lock
-    setflag(FLAG_DEXNAV_GET)
-    setflag(FLAG_GIVE_DEXNAV)
-    playfanfare(MUS_OBTAIN_ITEM)
-	msgbox("{PLAYER} received the DEXNAV!")
-    waitmessage
-    removeobject(17)
-    release
-    end
-}

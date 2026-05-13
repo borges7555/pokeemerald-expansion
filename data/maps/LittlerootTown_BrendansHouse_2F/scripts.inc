@@ -604,27 +604,3 @@ PlayersHouse_2F_Text_ItsAGameCube:
 	.string "A Game Boy Advance is connected to\n"
 # 303 "data/maps/LittlerootTown_BrendansHouse_2F/scripts.pory"
 	.string "serve as the Controller.$"
-
-PlayersHouse_2F_EventScript_Give_DexNav::
-# 308 "data/maps/LittlerootTown_BrendansHouse_2F/scripts.pory"
-	lock
-# 309 "data/maps/LittlerootTown_BrendansHouse_2F/scripts.pory"
-	setflag FLAG_DEXNAV_GET
-# 310 "data/maps/LittlerootTown_BrendansHouse_2F/scripts.pory"
-	setflag FLAG_GIVE_DEXNAV
-# 311 "data/maps/LittlerootTown_BrendansHouse_2F/scripts.pory"
-	playfanfare MUS_OBTAIN_ITEM
-# 312 "data/maps/LittlerootTown_BrendansHouse_2F/scripts.pory"
-	msgbox PlayersHouse_2F_EventScript_Give_DexNav_Text_0
-# 313 "data/maps/LittlerootTown_BrendansHouse_2F/scripts.pory"
-	waitmessage
-# 314 "data/maps/LittlerootTown_BrendansHouse_2F/scripts.pory"
-	removeobject 17
-# 315 "data/maps/LittlerootTown_BrendansHouse_2F/scripts.pory"
-	release
-	end
-
-
-PlayersHouse_2F_EventScript_Give_DexNav_Text_0:
-# 312 "data/maps/LittlerootTown_BrendansHouse_2F/scripts.pory"
-	.string "{PLAYER} received the DEXNAV!$"
