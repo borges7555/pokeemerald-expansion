@@ -9,7 +9,7 @@ u32 GetCurrentLevelCap(void)
 {
     static const u32 sLevelCapFlagMap[][2] =
     {
-        {FLAG_BADGE01_GET, 25},
+        {FLAG_BADGE01_GET, 15},
         {FLAG_BADGE02_GET, 22},
         {FLAG_BADGE03_GET, 29},
         {FLAG_BADGE04_GET, 39},
